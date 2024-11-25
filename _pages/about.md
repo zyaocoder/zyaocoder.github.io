@@ -11,7 +11,7 @@ I am a Ph.D. student at [WiNS Lab](http://carina.cse.lehigh.edu/winslab/index.ph
 
 My research focuses on Computer Vision and Autonomous Driving. I have served as a reviewer for top-tier CV/ML/AI conferences (CVPR, AISTATS, WACV) as well as leading journals (TITS, TIV, TTRA).
 
-<strong>Research Interests</strong>
+<strong>Research Interests:</strong>
 * Image/Video Semantic Segmentation
 * Vision-Language Model
 * Multimodal Fusion
