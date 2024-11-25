@@ -41,12 +41,12 @@ Skills
 
 Publications
 ======
-* [Event-guided Low-light Video Semantic Segmentation](https://arxiv.org/pdf/2411.00639)
-Yao, Zhen, and Mooi Choo Chuah. "Event-guided Low-light Video Semantic Segmentation." arXiv preprint arXiv:2411.00639 (2024).
-* [CrackNex: a Few-shot Low-light Crack Segmentation Model Based on Retinex Theory for UAV Inspections](https://ieeexplore.ieee.org/document/10611660)
+* [Event-guided Low-light Video Semantic Segmentation](https://arxiv.org/pdf/2411.00639) \\
+<small>Yao, Zhen, and Mooi Choo Chuah. "Event-guided Low-light Video Semantic Segmentation." arXiv preprint arXiv:2411.00639 (2024).</small>
+* [CrackNex: a Few-shot Low-light Crack Segmentation Model Based on Retinex Theory for UAV Inspections](https://ieeexplore.ieee.org/document/10611660) \\
 <small>Yao, Zhen, Jiawei Xu, Shuhang Hou, and Mooi Choo Chuah. "Cracknex: a few-shot low-light crack segmentation model based on retinex theory for uav inspections." arXiv preprint arXiv:2403.03063 (2024).</small>
-* [Goal-lbp: Goal-based local behavior guided trajectory prediction for autonomous driving](https://ieeexplore.ieee.org/abstract/document/10367760)
+* [Goal-lbp: Goal-based local behavior guided trajectory prediction for autonomous driving](https://ieeexplore.ieee.org/abstract/document/10367760) \\
 <small>Yao, Zhen, Xin Li, Bo Lang, and Mooi Choo Chuah. "Goal-lbp: Goal-based local behavior guided trajectory prediction for autonomous driving." IEEE Transactions on Intelligent Transportation Systems (2023).</small>
-* [Robustness of trajectory prediction models under map-based attacks](https://openaccess.thecvf.com/content/WACV2023/html/Zheng_Robustness_of_Trajectory_Prediction_Models_Under_Map-Based_Attacks_WACV_2023_paper.html)
+* [Robustness of trajectory prediction models under map-based attacks](https://openaccess.thecvf.com/content/WACV2023/html/Zheng_Robustness_of_Trajectory_Prediction_Models_Under_Map-Based_Attacks_WACV_2023_paper.html) \\
 <small>Zheng, Zhihao, Xiaowen Ying, Zhen Yao, and Mooi Choo Chuah. "Robustness of trajectory prediction models under map-based attacks." In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision, pp. 4541-4550. 2023.</small>
 
