@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2024_icra_crack
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2024-05-13
-venue: 'IEEE International Conference on Robotics and Automation (ICRA), 2024'
+venue: 'IEEE International Conference on Robotics and Automation (ICRA)'
 paperurl: 'https://ieeexplore.ieee.org/document/10611660'
 codeurl: 'https://github.com/zyaocoder/CrackNex'
 authors: '<strong>Zhen Yao</strong>, Jiawei Xu, Shuhang Hou, Mooi Choo Chuah'
