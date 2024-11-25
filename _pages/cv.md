@@ -37,7 +37,7 @@ Skills
 * Languages: Python, C++, C, Git, Bash
 * Technologies & Tools: Visual Studio, Linux, MATLAB, Docker, MySQL
 * Deep Learning Frameworks: Pytorch and TensorFlow
-* Computer Vision Algorithms: Image/Video segmentation, Vision-Languague Models, Multimodal Fusion, Event-based Sensors, Low-light Enhancement.
+* Computer Vision Algorithms: Image/Video segmentation, Vision-Language Models, Multimodal Fusion, Event-based Sensors, Low-light Enhancement.
 
 Publications
 ======
