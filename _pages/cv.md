@@ -19,7 +19,7 @@ Work experience
 ======
 * 2021/02 - Present: Research Assistant
   * WiNS Lab, Lehigh University
-  * Supervisor: [Mooi Choo Chuah](https://www.cse.lehigh.edu/~chuah/)
+  * Supervisor: [Dr. Mooi Choo Chuah](https://www.cse.lehigh.edu/~chuah/)
   * Duties: Conduct research and propose cutting-edge algorithms; Design experiments and perform qualitative and quantitative evaluations
 
 * 2021/02 - 2021/05: Teaching Assistant
