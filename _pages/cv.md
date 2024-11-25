@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Vision & Deep Learning, Lehigh University
+* Ph.D. in Computer Vision & Deep Learning, Lehigh University
 * M.S. in Computer Science, New York University
 * B.S. in Computer Science, China Agricultural University
   
