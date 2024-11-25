@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023_tits_goallbp
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2023-12-20
-venue: 'IEEE Transactions on Intelligent Transportation Systems (TITS), 2024'
+venue: 'IEEE Transactions on Intelligent Transportation Systems (TITS)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10367760'
 codeurl: #
 authors: '<strong>Zhen Yao</strong>, Xin Li, Bo Lang, Mooi Choo Chuah'
