@@ -20,7 +20,7 @@ Work experience
 * 2021/02 - Present: Research Assistant
   * WiNS Lab, Lehigh University
   * Supervisor: [Mooi Choo Chuah](https://www.cse.lehigh.edu/~chuah/)
-  * Duties: Conduct research focusing on image/video segmentation and propose cutting-edge algorithms; Design experiments and perform qualitative and quantitative evaluations
+  * Duties: Conduct research and propose cutting-edge algorithms; Design experiments and perform qualitative and quantitative evaluations
 
 * 2021/02 - 2021/05: Teaching Assistant
   * Teaching Assistant of CSE-160: Introduction to Data Science, P.C. Rossing College of Engineering and Applied Science, Lehigh University
