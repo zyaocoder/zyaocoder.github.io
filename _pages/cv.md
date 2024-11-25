@@ -11,54 +11,36 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Vision & Deep Learning, Lehigh University
+* M.S. in Computer Science, New York University
+* B.S. in Computer Science, China Agricultural University
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2021/02 - Present: Research Assistant
+  * WiNS Lab, Lehigh University
+  * Supervisor: [Mooi Choo Chuah](https://www.cse.lehigh.edu/~chuah/)
+  * Duties: Conduct research focusing on image/video segmentation and propose cutting-edge algorithms; Design experiments and perform qualitative and quantitative evaluations
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2021/02 - 2021/05: Teaching Assistant
+  * Teaching Assistant of CSE-160: Introduction to Data Science, P.C. Rossing College of Engineering and Applied Science, Lehigh University
+  * Instructor: [Dr. Brian D. Davison](https://www.cse.lehigh.edu/~brian/)
+  * Duties: Assisted 100+ students in understanding Machine Learning and data mining theory; Hosted weekly lab sessions to guide students in hands-on coding exercises
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019/09 - 2020/05: Teaching Assistant
+  * Teaching Assistant of CS-2214: Computer Architecture, Tandon School of Engineering, New York University
+  * Instructor: [Prof. Anam Waheed](https://www.linkedin.com/in/anam-waheed/)
+  * Duties: Held office hours twice a week to help 150+ students with their questions; Collaborated with the instructor in lecture delivery and exam development
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages: Python, C++, C, Git, Bash
+* Technologies & Tools: Visual Studio, Linux, MATLAB, Docker, MySQL
+* Deep Learning Frameworks: Pytorch and TensorFlow
+* Computer Vision Algorithms: Image/Video segmentation, Vision-Languague Models, Multimodal Fusion, Event-based Sensors, Low-light Enhancement.
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
