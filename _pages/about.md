@@ -15,5 +15,6 @@ My research focuses on Computer Vision and Autonomous Driving. I have served as 
 * Image/Video Semantic Segmentation
 * Vision-Language Model
 * Multimodal Fusion
+* Event-based Sensors
 * Low-light Vision Tasks
 * Autonomous Driving
