@@ -2,6 +2,7 @@
 title: "Event-guided Low-light Video Semantic Segmentation"
 collection: publications
 permalink: /publication/2025_wacv_evsnet
+date: 2025-02-28
 venue: 'IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)'
 paperurl: 'https://arxiv.org/pdf/2411.00639'
 codeurl: #
