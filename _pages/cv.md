@@ -15,6 +15,12 @@ Education
 * M.S. in Computer Science, New York University
 * B.S. in Computer Science, China Agricultural University
 
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
 Work experience
 ======
 * 2021/02 - Present: Research Assistant
@@ -38,9 +44,3 @@ Skills
 * Technologies & Tools: Visual Studio, Linux, MATLAB, Docker, MySQL
 * Deep Learning Frameworks: Pytorch and TensorFlow
 * Computer Vision Algorithms: Image/Video segmentation, Vision-Languague Models, Multimodal Fusion, Event-based Sensors, Low-light Enhancement.
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
