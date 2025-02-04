@@ -8,7 +8,9 @@ redirect_from:
   - /markdown.html
 ---
 
-* (2024/11), Reviewer, CVPR 2025
+* (2025/2), Reviewer, IJCNN 2025
+* 
+* (2024/12), Reviewer, CVPR 2025
  
 * (2024/10), paper on [Event-guided Low-light Video Semantic Segmentation](https://arxiv.org/abs/2411.00639) is accepted to WACV 2025!
 
