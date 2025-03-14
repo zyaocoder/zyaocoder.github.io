@@ -12,33 +12,6 @@
   {% assign title = post.title %}
 {% endif %}
 
-<head>
-
-  <style>
-    .papertable {
-      width:180%;
-      border:none;
-      border-spacing:0px;
-      border-collapse:separate;
-      margin-right:auto;
-      margin-left:auto;
-      margin-bottom:0.5em;
-        }
-    .paperimage {
-      padding-right:2.5%;
-      width:30%;
-      max-width:20%;
-      border:none;
-        }
-    .papertext {
-      width:80%;
-      vertical-align:middle;
-      border:none;
-      padding-bottom:5%;
-        }
-  </style>
-</head>
-
 <div class="{{ include.type | default: "list" }}__item">
   <article>
       <!-- paper table -->
