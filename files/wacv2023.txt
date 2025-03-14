@@ -1,0 +1,7 @@
+@inproceedings{zheng2023robustness,
+  title={Robustness of trajectory prediction models under map-based attacks},
+  author={Zheng, Zhihao and Ying, Xiaowen and Yao, Zhen and Chuah, Mooi Choo},
+  booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
+  pages={4541--4550},
+  year={2023}
+}
