@@ -1,0 +1,8 @@
+@inproceedings{yao2024cracknex,
+  title={Cracknex: a few-shot low-light crack segmentation model based on retinex theory for uav inspections},
+  author={Yao, Zhen and Xu, Jiawei and Hou, Shuhang and Chuah, Mooi Choo},
+  booktitle={2024 IEEE International Conference on Robotics and Automation (ICRA)},
+  pages={11155--11162},
+  year={2024},
+  organization={IEEE}
+}
