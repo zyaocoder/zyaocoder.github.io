@@ -12,7 +12,7 @@ redirect_from:
  
 * (2024/12), Reviewer, CVPR 2025
  
-* (2024/10), paper on [Event-guided Low-light Video Semantic Segmentation](https://arxiv.org/abs/2411.00639) is accepted to WACV 2025!
+* (2024/10), paper on [Event-guided Low-light Video Semantic Segmentation](https://openaccess.thecvf.com/content/WACV2025/html/Yao_Event-Guided_Low-Light_Video_Semantic_Segmentation_WACV_2025_paper.html) is accepted to WACV 2025!
 
 * (2024/10), Reviewer, AISTATS 2025
 
