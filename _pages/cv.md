@@ -35,18 +35,18 @@ Work experience
 Skills
 ======
 * Languages: Python, C++, C, Git, Bash
-* Technologies & Tools: Visual Studio, Linux, MATLAB, Docker, MySQL
-* Deep Learning Frameworks: Pytorch and TensorFlow
-* Computer Vision Algorithms: Image/Video segmentation, Vision-Language Models, Multimodal Fusion, Event-based Sensors, Low-light Enhancement.
+* Technologies & Tools: Visual Studio, Linux, Hugging Face, Docker
+* Deep Learning Frameworks: PyTorch, OpenCV, MMSeg, TensorFlow
+* Computer Vision Algorithms: Image/Video Segmentation, Multimodal Large Language Model, Multi-sensor Fusion, Event-based Camera, Low-light Vision.
 
 Publications
 ======
-* [Event-guided Low-light Video Semantic Segmentation](https://arxiv.org/pdf/2411.00639) \\
-<small>Yao, Zhen, and Mooi Choo Chuah. "Event-guided Low-light Video Semantic Segmentation." arXiv preprint arXiv:2411.00639 (2024).</small>
+* [Event-guided Low-light Video Semantic Segmentation](https://openaccess.thecvf.com/content/WACV2025/html/Yao_Event-Guided_Low-Light_Video_Semantic_Segmentation_WACV_2025_paper.html) \\
+<small>Yao, Zhen, and Mooi Choo Chuah. IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2025.</small>
 * [CrackNex: a Few-shot Low-light Crack Segmentation Model Based on Retinex Theory for UAV Inspections](https://ieeexplore.ieee.org/document/10611660) \\
-<small>Yao, Zhen, Jiawei Xu, Shuhang Hou, and Mooi Choo Chuah. "Cracknex: a few-shot low-light crack segmentation model based on retinex theory for uav inspections." arXiv preprint arXiv:2403.03063 (2024).</small>
+<small>Yao, Zhen, Jiawei Xu, Shuhang Hou, and Mooi Choo Chuah. IEEE International Conference on Robotics and Automation (ICRA), 2024.</small>
 * [Goal-lbp: Goal-based local behavior guided trajectory prediction for autonomous driving](https://ieeexplore.ieee.org/abstract/document/10367760) \\
-<small>Yao, Zhen, Xin Li, Bo Lang, and Mooi Choo Chuah. "Goal-lbp: Goal-based local behavior guided trajectory prediction for autonomous driving." IEEE Transactions on Intelligent Transportation Systems (2023).</small>
+<small>Yao, Zhen, Xin Li, Bo Lang, and Mooi Choo Chuah. IEEE Transactions on Intelligent Transportation Systems (TITS), 2023.</small>
 * [Robustness of trajectory prediction models under map-based attacks](https://openaccess.thecvf.com/content/WACV2023/html/Zheng_Robustness_of_Trajectory_Prediction_Models_Under_Map-Based_Attacks_WACV_2023_paper.html) \\
-<small>Zheng, Zhihao, Xiaowen Ying, Zhen Yao, and Mooi Choo Chuah. "Robustness of trajectory prediction models under map-based attacks." In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision, pp. 4541-4550. 2023.</small>
+<small>Zheng, Zhihao, Xiaowen Ying, Zhen Yao, and Mooi Choo Chuah. IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2023.</small>
 
