@@ -39,6 +39,20 @@
   </style>
 </head>
 
+    {% if post.citation and post.paperurl and post.slidesurl %}
+      <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Download Paper</a> | <a href="{{ post.slidesurl }}">Download Slides</a></p>
+    {% elsif post.citation and post.paperurl %}
+      <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Download Paper</a></p>
+    {% elsif post.citation and post.slidesurl %}
+      <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.slidesurl }}">Download Slides</a></p>
+    {% elsif post.citation %}
+      <p>Recommended citation: {{ post.citation }}</p>
+    {% elsif post.paperurl %}
+      <p><a href=" {{ post.paperurl }} ">Download Paper</a></p>
+    {% elsif post.slidesurl %}
+      <p><a href="{{ post.slidesurl }}">Download Slides</a></p>
+    {% endif %}
+
 <div class="{{ include.type | default: "list" }}__item">
   <article>
       <!-- paper table -->
@@ -51,17 +65,12 @@
         <h2>{{title}}</h2>
         <p> {{post.authors}}  </p>
         <!-- <a class="w3-button btn w3-white w3-text-blue w3-border" href="https://simple-bev.github.io/">project page</a> -->
-        {% if post.paperurl %}
-          <p><a  href="{{post.paperurl}}">[paper]</a></p>
-        (% endif %)
-        {% if post.codeurl %}
-          <p><a  href="{{post.codeurl}}">[paper]</a></p>
-        (% endif %)
-        {% if post.arxivurl %}
-          <p><a  href="{{post.arxivurl}}">[paper]</a></p>
-        (% endif %)
-        {% if post.biburl %}
-          <p><a  href="{{post.biburl}}">[paper]</a></p>
+        {% if post.paperurl and post.codeurl and if post.arxivurl and post.biburl %}
+          <p><a  href="{{post.paperurl}}">[paper]</a><a  href="{{post.codeurl}}">[paper]</a><a  href="{{post.arxivurl}}">[paper]</a><a  href="{{post.biburl}}">[paper]</a></p>
+        {% elsif post.paperurl if post.arxivurl and post.biburl  %}
+          <p><a  href="{{post.paperurl}}">[paper]</a><a  href="{{post.arxivurl}}">[paper]</a><a  href="{{post.biburl}}">[paper]</a></p>
+        {% elsif post.paperurl and post.biburl  %}
+          <p><a  href="{{post.paperurl}}">[paper]</a><a  href="{{post.biburl}}">[paper]</a></p>
         (% endif %)
       </td>
     </tr>
