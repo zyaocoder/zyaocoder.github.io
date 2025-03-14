@@ -55,11 +55,11 @@
     </tr>
   </table>
 {% if post.paperurl and post.codeurl and if post.arxivurl and post.biburl %}
-  <p><a  href="{{post.paperurl}}">[paper]</a><a  href="{{post.codeurl}}">[paper]</a><a  href="{{post.arxivurl}}">[paper]</a><a  href="{{post.biburl}}">[paper]</a></p>
+  <p><a  href="{{post.paperurl}}">[Paper]</a><a  href="{{post.codeurl}}">[Code]</a><a  href="{{post.arxivurl}}">[arXiv]</a><a  href="{{post.biburl}}">[BibTeX]</a></p>
 {% elsif post.paperurl if post.arxivurl and post.biburl %}
-  <p><a  href="{{post.paperurl}}">[paper]</a><a  href="{{post.arxivurl}}">[paper]</a><a  href="{{post.biburl}}">[paper]</a></p>
+  <p><a  href="{{post.paperurl}}">[Paper]</a><a  href="{{post.arxivurl}}">[arXiv]</a><a  href="{{post.biburl}}">[BibTeX]</a></p>
 {% elsif post.paperurl and post.biburl %}
-  <p><a  href="{{post.paperurl}}">[paper]</a><a  href="{{post.biburl}}">[paper]</a></p>
+  <p><a  href="{{post.paperurl}}">[Paper]</a><a  href="{{post.biburl}}">[BibTeX]</a></p>
 {% endif %}
     
   </article>
