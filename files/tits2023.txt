@@ -1,0 +1,10 @@
+@article{yao2023goal,
+  title={Goal-lbp: Goal-based local behavior guided trajectory prediction for autonomous driving},
+  author={Yao, Zhen and Li, Xin and Lang, Bo and Chuah, Mooi Choo},
+  journal={IEEE Transactions on Intelligent Transportation Systems},
+  volume={25},
+  number={7},
+  pages={6770--6779},
+  year={2023},
+  publisher={IEEE}
+}
