@@ -49,6 +49,7 @@
       <td class="papertext"> 
         <h2>{{title}}</h2>
         <p> {{post.authors}}  </p>
+        <p> {{post.venue}}  </p>
         <!-- <a class="w3-button btn w3-white w3-text-blue w3-border" href="https://simple-bev.github.io/">project page</a> -->
         {% if post.paperurl and post.codeurl and post.arxivurl and post.biburl %}
           <p><a  href="{{post.paperurl}}">[Paper]</a> | <a  href="{{post.codeurl}}">[Code]</a> | <a  href="{{post.arxivurl}}">[arXiv]</a> | <a  href="{{post.biburl}}">[BibTeX]</a></p>
