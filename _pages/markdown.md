@@ -8,10 +8,14 @@ redirect_from:
   - /markdown.html
 ---
 
+* (2025/4), Reviewer, ACM MM 2025
+
 * (2025/3), Reviewer, ICCV 2025
   
 * (2025/2), Reviewer, IJCNN 2025
- 
+
+* (2024/12), Technical Program Committee, [8th Workshop on Efficient Deep Learning for Computer Vision](https://lpcv.ai/), CVPR Workshop 2025
+
 * (2024/12), Reviewer, CVPR 2025
  
 * (2024/10), paper on [Event-guided Low-light Video Semantic Segmentation](https://openaccess.thecvf.com/content/WACV2025/html/Yao_Event-Guided_Low-Light_Video_Semantic_Segmentation_WACV_2025_paper.html) is accepted to WACV 2025!
