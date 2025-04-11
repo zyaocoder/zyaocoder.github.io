@@ -23,6 +23,6 @@ Conference reviewers
 Journal reviewers
 ======
 * Pattern Recognition (PR)
-* IEEE Transactions on Intelligent Transportation Systems	(TITS)
-* IEEE Transactions on Intelligent Vehicles (TIV)
+* IEEE Transactions on Intelligent Transportation Systems	(IEEE T-ITS)
+* IEEE Transactions on Intelligent Vehicles (IEEE T-IV)
 * Transportmetrica A: Transport Science	(TTRA)
