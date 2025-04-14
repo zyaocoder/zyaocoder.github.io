@@ -29,3 +29,5 @@ redirect_from:
 * (2023/12), paper on [Goal-LBP: Goal-based Local Behavior Guided Trajectory Prediction for Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/10367760) is accepted to IEEE-TITS!
 
 * (2022/8), paper on [Robustness of trajectory prediction models under map-based attacks](https://openaccess.thecvf.com/content/WACV2023/html/Zheng_Robustness_of_Trajectory_Prediction_Models_Under_Map-Based_Attacks_WACV_2023_paper.html) is accepted to WACV 2023!
+
+* (2021/2): Begin my new journey as a Ph.D. student at Lehigh University, USA.
