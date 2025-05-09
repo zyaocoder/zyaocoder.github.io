@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Computer Science, Lehigh University                       2021 - 2026
-* M.S. in Computer Science, New York University                       2018 - 2020
-* B.S. in Computer Science, China Agricultural University                       2014 - 2018
+* Ph.D. in Computer Science, Lehigh University &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 2021 - 2026
+* M.S. in Computer Science, New York University &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 2018 - 2020
+* B.S. in Computer Science, China Agricultural University &emsp;&emsp;&emsp;&emsp;&emsp; 2014 - 2018
   
 Work experience
 ======
@@ -51,7 +51,7 @@ Skills
 
 Publications
 ======
-* [Event-guided Low-light Video Semantic Segmentation](https://www.arxiv.org/abs/2505.01548) \\
+* [Rethinking RGB-Event Semantic Segmentation with a Novel Bidirectional Motion-enhanced Event Representation](https://www.arxiv.org/abs/2505.01548) \\
 <small>**Zhen Yao**, Xiaowen Ying, and Mooi Choo Chuah. arXiv, 2025.</small>
 * [WACV 2025] [Event-guided Low-light Video Semantic Segmentation](https://openaccess.thecvf.com/content/WACV2025/html/Yao_Event-Guided_Low-Light_Video_Semantic_Segmentation_WACV_2025_paper.html) \\
 <small>**Zhen Yao**, and Mooi Choo Chuah. IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2025.</small>
