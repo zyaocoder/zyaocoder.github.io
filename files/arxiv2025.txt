@@ -1,0 +1,6 @@
+@article{yao2025rethinking,
+  title={Rethinking RGB-Event Semantic Segmentation with a Novel Bidirectional Motion-enhanced Event Representation},
+  author={Yao, Zhen and Ying, Xiaowen and Chuah, Mooi Choo},
+  journal={arXiv preprint arXiv:2505.01548},
+  year={2025}
+}
