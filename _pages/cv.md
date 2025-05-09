@@ -51,7 +51,7 @@ Skills
 
 Publications
 ======
-* [Rethinking RGB-Event Semantic Segmentation with a Novel Bidirectional Motion-enhanced Event Representation](https://www.arxiv.org/abs/2505.01548) \\
+* [ArXiv 2025] [Rethinking RGB-Event Semantic Segmentation with a Novel Bidirectional Motion-enhanced Event Representation](https://www.arxiv.org/abs/2505.01548) \\
 <small>**Zhen Yao**, Xiaowen Ying, and Mooi Choo Chuah. arXiv, 2025.</small>
 * [WACV 2025] [Event-guided Low-light Video Semantic Segmentation](https://openaccess.thecvf.com/content/WACV2025/html/Yao_Event-Guided_Low-Light_Video_Semantic_Segmentation_WACV_2025_paper.html) \\
 <small>**Zhen Yao**, and Mooi Choo Chuah. IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2025.</small>
