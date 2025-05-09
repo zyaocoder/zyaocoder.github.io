@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Computer Science, Lehigh University &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 2021 - 2026
-* M.S. in Computer Science, New York University &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 2018 - 2020
-* B.S. in Computer Science, China Agricultural University &emsp;&emsp;&emsp;&emsp;&emsp; 2014 - 2018
+* Ph.D. in Computer Science, Lehigh University, 2021 - 2026
+* M.S. in Computer Science, New York University, 2018 - 2020
+* B.S. in Computer Science, China Agricultural University, 2014 - 2018
   
 Work experience
 ======
