@@ -31,23 +31,16 @@ Work experience
   *Technical Program Committee*
   * Mentor: [Shuai Zhang](https://zsivine.github.io/)
   * Organize the 2025 IEEE Low Power Computer Vision Challenge (LPCVC) open-vocabulary segmentation track (40+ teams involved); Collect data and evaluate the baseline model
-
-* 2021/02 - 2021/05: **Lehigh University**, P.C. Rossing College of Engineering and Applied Science | Bethlehem, PA \\
-  *Teaching Assistant of CSE-160: Introduction to Data Science*
-  * Mentor: [Brian D. Davison](https://www.cse.lehigh.edu/~brian/)
-  * Assisted 100+ students in understanding Machine Learning and data mining theory; Hosted weekly lab sessions to guide students in hands-on coding exercises
-
-* 2019/09 - 2020/05: **New York University**, Tandon School of Engineering | New York, NY \\
-  *Teaching Assistant of CS-2214: Computer Architecture*
-  * Mentor: [Anam Waheed](https://www.linkedin.com/in/anam-waheed/)
-  * Held office hours twice a week to help 150+ students with their questions; Collaborated with the instructor in lecture delivery and exam development
   
 Skills
 ======
-* Languages: Python, C++, C, Git, Bash
+* Languages: Python, C/C++, C, Git, Bash
+* Deep Learning Frameworks: PyTorch, TensorFlow, OpenCV, Keras, MMCV, MMSeg
+* Computer Vision Algorithms: Vision-Language Models, Image/Video Segmentation, Multi-sensor Fusion, Low-light Vision
 * Technologies & Tools: Visual Studio, Linux, Hugging Face, Docker
-* Deep Learning Frameworks: PyTorch, OpenCV, MMSeg, TensorFlow
-* Computer Vision Algorithms: Image/Video Segmentation, Multimodal Large Language Model, Multi-sensor Fusion, Event-based Camera, Low-light Vision.
+* Services: Reviewer of top-tier CV/ML/AI conferences (CVPR, ICCV, ACM MM, AISTATS, WACV, IJCNN) as well as leading journals (PR, T-ITS, T-IV, TTRA)
+* Soft skills: Written and Verbal Communication, Passion, Teamwork, Mathematical Skills \\
+* Hobbies: Basketball, Pickleball, Traveling
 
 Publications
 ======
