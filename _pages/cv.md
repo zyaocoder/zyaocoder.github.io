@@ -38,9 +38,7 @@ Skills
 * Deep Learning Frameworks: PyTorch, TensorFlow, OpenCV, Keras, MMCV, MMSeg
 * Computer Vision Algorithms: Vision-Language Models, Image/Video Segmentation, Multi-sensor Fusion, Low-light Vision
 * Technologies & Tools: Visual Studio, Linux, Hugging Face, Docker
-* Services: Reviewer of top-tier CV/ML/AI conferences (CVPR, ICCV, ACM MM, AISTATS, WACV, IJCNN) as well as leading journals (PR, T-ITS, T-IV, TTRA)
 * Soft skills: Written and Verbal Communication, Passion, Teamwork, Mathematical Skills \\
-* Hobbies: Basketball, Pickleball, Traveling
 
 Publications
 ======
