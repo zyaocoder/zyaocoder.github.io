@@ -5,6 +5,7 @@ permalink: /publication/2025_arxiv_brenet
 date: 2025-05-02
 venue: 'arXiv, 2025'
 paperurl: ''
+codeurl: 'https://github.com/zyaocoder/BRENet'
 arxivurl: 'https://www.arxiv.org/abs/2505.01548'
 biburl: '../files/arxiv2025.txt'
 authors: '<strong>Zhen Yao</strong>, Xiaowen Ying, Mooi Choo Chuah'
