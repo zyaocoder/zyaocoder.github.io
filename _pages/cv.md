@@ -25,7 +25,7 @@ Work experience
 * 2025/05 - 2025/08: **Johnson & Johnson**, Computer Vision Team | Cambridge, MA \\
   *AI/ML Intern, Computer Vision*
   * Mentor: [Brandon Ginley](https://scholar.google.com/citations?user=UDz46zwAAAAJ&hl=en)
-  * 
+  * Propose a semi-supervised learning approach that leverages foundation models to improve annotation efficiency
 
 * 2024/12 - 2025/06: **8th Workshop on Efficient Deep Learning for Computer Vision**, CVPR | Nashville, TN \\
   *Technical Program Committee*
@@ -36,8 +36,8 @@ Skills
 ======
 * Languages: Python, C/C++, C, Git, Bash
 * Deep Learning Frameworks: PyTorch, TensorFlow, OpenCV, Keras, MMCV, MMSeg
-* Computer Vision Algorithms: Vision-Language Models, Video Understanding, Image/Video Segmentation, Multi-sensor Fusion, Low-light Vision
-* Technologies & Tools: Visual Studio, Linux, Hugging Face, Docker
+* Computer Vision Algorithms: Multimodal Vision-Language Models, Video Understanding, Image/Video Segmentation, Multi-sensor Fusion, Low-light Vision
+* Technologies & Tools: Linux, Bitbucket, Hugging Face, Docker, Visual Studio
 * Soft skills: Written and Verbal Communication, Passion, Teamwork, Mathematical Skills
 
 Publications
