@@ -12,9 +12,9 @@ I am a Ph.D. student at [WiNS Lab](http://carina.cse.lehigh.edu/winslab/index.ph
 My research focuses on Computer Vision and Multimodal Large Language Models. I have served as a reviewer for top-tier CV/ML/AI conferences (CVPR, ICCV, ACM MM, AISTATS, WACV) as well as leading journals (PR, IEEE T-ITS, IEEE T-IV, TTRA).
 
 <strong>Research Interests:</strong>
+* Multimodal Vision-Language Model
+* Video Understanding
 * Image/Video Segmentation
-* Multimodal Large Language Model
 * Multi-sensor Fusion
 * Event-based Camera
-* Low-light Vision Tasks
-* Autonomous Driving
+* Low-light Vision
