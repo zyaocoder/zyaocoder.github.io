@@ -23,7 +23,7 @@ Work experience
   * Conduct research and propose cutting-edge algorithms; Design experiments and perform qualitative and quantitative evaluations
 
 * 2025/05 - 2025/08: **Johnson & Johnson**, Computer Vision Team | Cambridge, MA \\
-  *Computer Vision Intern*
+  *AI/ML Intern, Computer Vision*
   * Mentor: [Brandon Ginley](https://scholar.google.com/citations?user=UDz46zwAAAAJ&hl=en)
   * 
 
@@ -36,9 +36,9 @@ Skills
 ======
 * Languages: Python, C/C++, C, Git, Bash
 * Deep Learning Frameworks: PyTorch, TensorFlow, OpenCV, Keras, MMCV, MMSeg
-* Computer Vision Algorithms: Vision-Language Models, Image/Video Segmentation, Multi-sensor Fusion, Low-light Vision
+* Computer Vision Algorithms: Vision-Language Models, Video Understanding, Image/Video Segmentation, Multi-sensor Fusion, Low-light Vision
 * Technologies & Tools: Visual Studio, Linux, Hugging Face, Docker
-* Soft skills: Written and Verbal Communication, Passion, Teamwork, Mathematical Skills \\
+* Soft skills: Written and Verbal Communication, Passion, Teamwork, Mathematical Skills
 
 Publications
 ======
