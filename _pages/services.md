@@ -16,8 +16,9 @@ Conference reviewers
 * IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025
 * IEEE/CVF International Conference on Computer Vision (ICCV), 2025
 * ACM International Conference on Multimedia (ACM MM), 2025
-* IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2025
-* International Conference on Artificial Intelligence and Statistics (AISTATS), 2025
+* AAAI Conference on Artificial Intelligence (AAAI), 2026
+* IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2025 - 2026
+* International Conference on Artificial Intelligence and Statistics (AISTATS), 2025 - 2026
 * International Joint Conference on Neural Networks (IJCNN), 2025
 
 Journal reviewers
