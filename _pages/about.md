@@ -13,7 +13,6 @@ My research focuses on Computer Vision and Multimodal Large Language Models. I h
 
 <strong>Research Interests:</strong>
 * Multimodal Vision-Language Model
-* Video Understanding
 * Image/Video Segmentation
 * Multi-sensor Fusion
 * Event-based Camera
