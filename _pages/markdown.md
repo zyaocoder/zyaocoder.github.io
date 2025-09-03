@@ -8,13 +8,13 @@ redirect_from:
   - /markdown.html
 ---
 
+* (2025/8), My internship is extended to November thanks to my mentor and the team.
+
+* (2025/8), Reviewer, AAAI 2026 and WACV 2026.
+
 * (2025/5), I will join Johnson & Johnson as a Computer Vision Intern in Summer 2025.
 
-* (2025/4), Reviewer, ACM MM 2025
-
-* (2025/3), Reviewer, ICCV 2025
-  
-* (2025/2), Reviewer, IJCNN 2025
+* (2025/4), Reviewer, IJCNN 2025, ICCV 2025, and ACM MM 2025
 
 * (2024/12), Organize [8th Workshop on Efficient Deep Learning for Computer Vision](https://lpcv.ai/) as Technical Program Committee, in conjunction with CVPR 2025
 
@@ -22,9 +22,7 @@ redirect_from:
  
 * (2024/10), Our paper [Event-guided Low-light Video Semantic Segmentation](https://openaccess.thecvf.com/content/WACV2025/html/Yao_Event-Guided_Low-Light_Video_Semantic_Segmentation_WACV_2025_paper.html) is accepted to WACV 2025!
 
-* (2024/10), Reviewer, AISTATS 2025
-
-* (2024/10), Reviewer, WACV 2025
+* (2024/10), Reviewer, AISTATS 2025 and WACV 2025
 
 * (2024/1), Our paper [CrackNex: a Few-shot Low-light Crack Segmentation Model Based on Retinex Theory for UAV Inspections](https://ieeexplore.ieee.org/document/10611660) is accepted to ICRA 2024!
 
