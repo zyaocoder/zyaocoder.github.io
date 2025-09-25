@@ -22,7 +22,7 @@ Work experience
   * Supervisor: [Mooi Choo Chuah](https://www.cse.lehigh.edu/~chuah/)
   * Conduct research and propose cutting-edge algorithms; Design experiments and perform qualitative and quantitative evaluations
 
-* 2025/05 - 2025/08: **Johnson & Johnson**, Computer Vision Team | Cambridge, MA <br>
+* 2025/05 - 2025/11: **Johnson & Johnson**, Computer Vision Team | Cambridge, MA <br>
   *AI/ML Intern, Computer Vision*
   * Mentor: [Brandon Ginley](https://scholar.google.com/citations?user=UDz46zwAAAAJ&hl=en)
   * Propose a semi-supervised learning approach that leverages foundation models to improve annotation efficiency
@@ -34,15 +34,16 @@ Work experience
   
 Skills
 ======
-* Languages: Python, C/C++, C, Git, Bash
-* Deep Learning Frameworks: PyTorch, TensorFlow, OpenCV, Keras, MMCV, MMSeg
-* Computer Vision Algorithms: Multimodal Vision-Language Models, Video Understanding, Image/Video Segmentation, Multi-sensor Fusion, Low-light Vision
-* Technologies & Tools: Linux, Bitbucket, Hugging Face, Docker, Visual Studio
-* Soft skills: Written and Verbal Communication, Passion, Teamwork, Mathematical Skills
+* Languages: Python, C/C++, MATLAB, Git, Bash
+* Deep Learning Frameworks: PyTorch, Detectron2, TensorFlow, Linux, OpenCV, CUDA, MMCV
+* Computer Vision Algorithms: Image and Video Segmentation, Vision-Language Models, Multimodal Foundation Models, Multi-Sensor Fusion, Low-Light Vision, Model Fine-tuning, Edge Devices
+* Technologies & Tools: Bitbucket, Hugging Face, Docker, Visual Studio
+* Soft skills: Written and Verbal Communication Skills, Passion, Teamwork, Academic Writing, Mathematical Skills, Creative
+* Hobbies: Basketball, Pickleball, Traveling
 
 Publications
 ======
-* [ArXiv 2025] [Rethinking RGB-Event Semantic Segmentation with a Novel Bidirectional Motion-enhanced Event Representation](https://www.arxiv.org/abs/2505.01548) <br>
+* [arXiv 2025] [Rethinking RGB-Event Semantic Segmentation with a Novel Bidirectional Motion-enhanced Event Representation](https://www.arxiv.org/abs/2505.01548) <br>
 <small>**Zhen Yao**, Xiaowen Ying, and Mooi Choo Chuah. arXiv, 2025.</small>
 * [WACV 2025] [Event-guided Low-light Video Semantic Segmentation](https://openaccess.thecvf.com/content/WACV2025/html/Yao_Event-Guided_Low-Light_Video_Semantic_Segmentation_WACV_2025_paper.html) <br>
 <small>**Zhen Yao**, and Mooi Choo Chuah. IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2025.</small>
