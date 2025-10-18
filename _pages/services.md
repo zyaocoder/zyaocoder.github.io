@@ -8,12 +8,12 @@ redirect_from:
 
 ---
 
-I regularly serve as reviewers for top-tier venues in CV/ML.
+I regularly serve as a reviewer for top-tier venues in CV/ML.
 
 
 Conference reviewers
 ======
-* IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025
+* IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025 - 2026
 * IEEE/CVF International Conference on Computer Vision (ICCV), 2025
 * ACM International Conference on Multimedia (ACM MM), 2025
 * AAAI Conference on Artificial Intelligence (AAAI), 2026
