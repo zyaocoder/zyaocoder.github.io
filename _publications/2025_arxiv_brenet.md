@@ -3,7 +3,7 @@ title: "Learning Flow-Guided Registration for RGB–Event Semantic Segmentation"
 collection: publications
 permalink: /publication/2025_arxiv_brenet
 date: 2025-05-02
-venue: 'arXiv, 2025'
+venue: 'arXiv 2025'
 paperurl: ''
 codeurl: 'https://github.com/zyaocoder/BRENet'
 arxivurl: 'https://www.arxiv.org/abs/2505.01548'
