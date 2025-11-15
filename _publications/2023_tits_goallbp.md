@@ -3,7 +3,7 @@ title: "Goal-lbp: Goal-based local behavior guided trajectory prediction for aut
 collection: publications
 permalink: /publication/2023_tits_goallbp
 date: 2023-12-20
-venue: 'IEEE Transactions on Intelligent Transportation Systems (IEEE-TITS), 2023'
+venue: 'IEEE-TITS 2023'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10367760'
 biburl: '../files/tits2023.txt'
 authors: '<strong>Zhen Yao</strong>, Xin Li, Bo Lang, Mooi Choo Chuah'
