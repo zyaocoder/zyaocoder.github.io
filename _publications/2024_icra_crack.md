@@ -3,7 +3,7 @@ title: "CrackNex: a Few-shot Low-light Crack Segmentation Model Based on Retinex
 collection: publications
 permalink: /publication/2024_icra_crack
 date: 2024-05-13
-venue: 'IEEE International Conference on Robotics and Automation (ICRA), 2024'
+venue: 'ICRA 2024'
 paperurl: 'https://ieeexplore.ieee.org/document/10611660'
 codeurl: 'https://github.com/zyaocoder/CrackNex'
 arxivurl: 'https://arxiv.org/abs/2403.03063'
