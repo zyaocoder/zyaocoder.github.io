@@ -8,7 +8,7 @@ paperurl: 'https://openaccess.thecvf.com/content/WACV2025/html/Yao_Event-Guided_
 arxivurl: 'https://arxiv.org/abs/2411.00639'
 biburl: '../files/wacv2025.txt'
 authors: '<strong>Zhen Yao</strong>, Mooi Choo Chuah'
-citation: 'Yao, Zhen, and Mooi Choo Chuah. "Event-guided Low-light Video Semantic Segmentation." Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2025.'
+citation: 'Yao, Zhen, and Mooi Choo Chuah. "Event-guided Low-light Video Semantic Segmentation." WACV 2025.'
 image: '../images/2025_wacv_evsnet.png'
 ---
 
