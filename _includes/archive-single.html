@@ -26,7 +26,7 @@
       display: flex;
       align-items: center;
       gap: 1rem;               /* space between image & text */
-      padding: 0.3rem 1.8rem 0.3rem;    /* top | left/right | bottom */
+      padding: 0.3rem 1rem 0.1rem;    /* top | left/right | bottom */
       margin-bottom: 0.2rem;     /* space between entries */
       border-radius: 15px;
       background: #ffffff;
@@ -44,7 +44,7 @@
     }
 
     .papertext h2 {
-      font-size: 1.1rem;
+      font-size: 1rem;
       margin-top: 0.2rem;   /* or 0 if you want it really tight */
     }
 
@@ -112,19 +112,19 @@
 
         <div class="papertext">
           <h2>{{ title }}</h2>
-          <p>{{ post.authors }} </p>
-          <p><strong>TL;DR:</strong> {{ post.tldr }} </p>
+          <p>{{ post.authors }} <br>
+          <strong>TL;DR:</strong> {{ post.tldr }} <br>
           {% if post.paperurl and post.codeurl and post.arxivurl and post.biburl %}
-            <p><a href="{{ post.paperurl }}">[Paper]</a> |
+            <a href="{{ post.paperurl }}">[Paper]</a> |
                <a href="{{ post.codeurl }}">[Code]</a> |
                <a href="{{ post.arxivurl }}">[arXiv]</a> |
                <a href="{{ post.biburl }}">[BibTeX]</a></p>
           {% elsif post.paperurl and post.arxivurl and post.biburl %}
-            <p><a href="{{ post.paperurl }}">[Paper]</a> |
+            <a href="{{ post.paperurl }}">[Paper]</a> |
                <a href="{{ post.arxivurl }}">[arXiv]</a> |
                <a href="{{ post.biburl }}">[BibTeX]</a></p>
           {% elsif post.paperurl and post.biburl %}
-            <p><a href="{{ post.paperurl }}">[Paper]</a> |
+            <a href="{{ post.paperurl }}">[Paper]</a> |
                <a href="{{ post.biburl }}">[BibTeX]</a></p>
           {% endif %}
         </div>
