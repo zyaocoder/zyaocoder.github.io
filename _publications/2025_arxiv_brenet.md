@@ -1,5 +1,5 @@
 ---
-title: "Learning Flow-Guided Registration for RGB–Event Semantic Segmentation"
+title: "Learning Flow-Guided Registration for RGB-Event Semantic Segmentation"
 collection: publications
 permalink: /publication/2025_arxiv_brenet
 date: 2025-05-02
