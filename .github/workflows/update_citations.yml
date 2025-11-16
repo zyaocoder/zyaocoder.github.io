@@ -15,9 +15,9 @@ jobs:
         sudo apt-get install python3-setuptools
     - name: Run
       run: |
-        cd ./google_scholar_crawler
+        cd ./scripts
         pip3 install -r requirements.txt
-        python3 main.py
+        python3 update_citations.py
         cd ./results
         git init
         git config --local user.name "${GITHUB_ACTOR}"
