@@ -29,12 +29,12 @@
       border:none;
       /* make image column a bit wider */
       width:50%;
-      max-width:280px;
+      max-width:50%;
       vertical-align:top;
     }
 
     .papertext {
-      width:80%;
+      width:50%;
       vertical-align:middle;
       border:none;
       padding-bottom:0%;
@@ -87,7 +87,7 @@
         <td class="papertext">
           <h2>{{ title }}</h2>
           <p>{{ post.authors }}</p>
-          <p><!-- TL;DR: --> {{ post.tldr }}</p>
+          <p><strong>TL;DR:</strong> {{ post.tldr }}</p>
           {% if post.paperurl and post.codeurl and post.arxivurl and post.biburl %}
             <p><a href="{{ post.paperurl }}">[Paper]</a> |
                <a href="{{ post.codeurl }}">[Code]</a> |
