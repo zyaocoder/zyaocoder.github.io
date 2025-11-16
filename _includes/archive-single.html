@@ -23,12 +23,16 @@
       margin-left:auto;
       margin-bottom:0em;
     }
+
     .paperimage {
       padding-right:2.5%;
-      width:30%;
-      max-width:20%;
       border:none;
+      /* make image column a bit wider */
+      width:50%;
+      max-width:280px;
+      vertical-align:top;
     }
+
     .papertext {
       width:80%;
       vertical-align:middle;
@@ -36,15 +40,23 @@
       padding-bottom:0%;
     }
 
-    /* ==== NEW: venue banner on image ==== */
+    /* ==== image card + banner ==== */
     .venue-wrapper {
       position: relative;
       display: inline-block;
+      border-radius: 6px;
+      overflow: hidden; /* clip banner + image corners */
+      box-shadow: 0 6px 16px rgba(0,0,0,0.18); /* shadow effect */
+      background: #fff;
     }
+
     .venue-wrapper img {
       display: block;
-      width: 100%;
+      width: 260px;   /* control thumbnail size here */
+      max-width: 100%;
+      height: auto;
     }
+
     .venue-banner {
       position: absolute;
       top: 0;
@@ -62,7 +74,6 @@
 
 <div class="{{ include.type | default: "list" }}__item">
   <article>
-    <!-- paper table -->
     <table class="papertable">
       <tr style="padding:0px">
         <td class="paperimage">
@@ -76,8 +87,7 @@
         <td class="papertext">
           <h2>{{ title }}</h2>
           <p>{{ post.authors }}</p>
-          <p>{{ post.venue }}</p>  {# delete this line if you don't want venue twice #}
-
+          <p><!-- TL;DR: --> {{ post.tldr }}</p>
           {% if post.paperurl and post.codeurl and post.arxivurl and post.biburl %}
             <p><a href="{{ post.paperurl }}">[Paper]</a> |
                <a href="{{ post.codeurl }}">[Code]</a> |
