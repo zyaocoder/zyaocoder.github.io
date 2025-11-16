@@ -12,20 +12,11 @@
   {% assign title = post.title %}
 {% endif %}
 
-.paper-card {
-  display: inline-block;          /* so scale behaves nicely */
-  transform: scale(1.5);          /* 150% of original size */
-  transform-origin: top left;     /* grow down/right from top-left */
-  margin-bottom: 2.5rem;          /* extra space between big cards */
-}
-
 <head>
   <style>
     /* === Card for one publication === */
     .paper-row {
       display: inline-block;
-      transform: scale(1.5);
-      transform-origin: top left;
       align-items: center;
       gap: 2.8rem;               /* space between image & text */
       padding: 1.6rem 1.8rem;    /* makes the whole box larger */
