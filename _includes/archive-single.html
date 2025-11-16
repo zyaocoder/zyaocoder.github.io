@@ -19,24 +19,24 @@
       border:none;
       border-spacing:0;
       border-collapse:collapse;
-      margin:0 auto 0.75rem auto;
+      margin:0 auto 1.2rem auto;  /* small gap between entries */
     }
 
     .papertable td {
-      padding:0;   /* kill default cell padding */
+      padding:0;
     }
 
     .paperimage {
-      padding-right:1.5rem;
       border:none;
-      width:30%;          /* smaller image column */
-      max-width:260px;
-      vertical-align:middle;
+      width:38%;              /* wider image column */
+      max-width:360px;
+      padding-right:2.2rem;   /* space between image & text */
+      vertical-align:middle;  /* center image vs text block */
     }
 
     .papertext {
-      width:70%;
-      vertical-align:middle;   /* center text vs image */
+      width:62%;
+      vertical-align:middle;
       border:none;
       padding-bottom:0;
     }
@@ -44,7 +44,7 @@
     /* ==== image card + banner ==== */
     .venue-wrapper {
       position: relative;
-      display: inline-block;
+      display: block;
       border-radius: 6px;
       overflow: hidden;
       box-shadow: 0 6px 16px rgba(0,0,0,0.18);
@@ -53,9 +53,8 @@
 
     .venue-wrapper img {
       display: block;
-      width: 260px;
-      max-width: 100%;
-      height: auto;
+      width:100%;   /* make image fill its column */
+      height:auto;
     }
 
     .venue-banner {
