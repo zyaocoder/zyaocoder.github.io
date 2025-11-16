@@ -14,31 +14,21 @@
 
 <head>
   <style>
-    .papertable {
-      width:150%;
-      border:none;
-      border-spacing:0;
-      border-collapse:collapse;
-      margin:0 auto 1.2rem auto;  /* small gap between entries */
-    }
-
-    .papertable td {
-      padding:0;
+    /* Layout for one publication row */
+    .paper-row {
+      display: flex;
+      align-items: center;     /* vertically center image & text */
+      gap: 2.4rem;             /* <— space between image and text */
+      margin-bottom: 1.5rem;   /* space between entries */
     }
 
     .paperimage {
-      border:none;
-      width:50%;              /* wider image column */
-      max-width:360px;
-      padding-right:8rem;   /* space between image & text */
-      vertical-align:middle;  /* center image vs text block */
+      flex: 0 0 40%;           /* image column width */
+      max-width: 380px;
     }
 
     .papertext {
-      width:45%;
-      vertical-align:middle;
-      border:none;
-      padding-bottom:0;
+      flex: 1 1 auto;          /* text takes remaining width */
     }
 
     /* ==== image card + banner ==== */
@@ -53,8 +43,8 @@
 
     .venue-wrapper img {
       display: block;
-      width:100%;   /* make image fill its column */
-      height:auto;
+      width: 100%;             /* fill the image column */
+      height: auto;
     }
 
     .venue-banner {
@@ -74,35 +64,34 @@
 
 <div class="{{ include.type | default: "list" }}__item">
   <article>
-    <table class="papertable">
-      <tr>
-        <td class="paperimage">
-          <div class="venue-wrapper">
-            {% if post.venue %}
-            <div class="venue-banner">{{ post.venue }}</div>
-            {% endif %}
-            <img src="{{ post.image }}" class="nopadimg" alt="{{ title | escape }}">
-          </div>
-        </td>
-        <td class="papertext">
-          <h2>{{ title }}</h2>
-          <p>{{ post.authors }}</p>
-          <p><strong>TL;DR:</strong> {{ post.tldr }}</p>
-          {% if post.paperurl and post.codeurl and post.arxivurl and post.biburl %}
-            <p><a href="{{ post.paperurl }}">[Paper]</a> |
-               <a href="{{ post.codeurl }}">[Code]</a> |
-               <a href="{{ post.arxivurl }}">[arXiv]</a> |
-               <a href="{{ post.biburl }}">[BibTeX]</a></p>
-          {% elsif post.paperurl and post.arxivurl and post.biburl %}
-            <p><a href="{{ post.paperurl }}">[Paper]</a> |
-               <a href="{{ post.arxivurl }}">[arXiv]</a> |
-               <a href="{{ post.biburl }}">[BibTeX]</a></p>
-          {% elsif post.paperurl and post.biburl %}
-            <p><a href="{{ post.paperurl }}">[Paper]</a> |
-               <a href="{{ post.biburl }}">[BibTeX]</a></p>
+    <div class="paper-row">
+      <div class="paperimage">
+        <div class="venue-wrapper">
+          {% if post.venue %}
+          <div class="venue-banner">{{ post.venue }}</div>
           {% endif %}
-        </td>
-      </tr>
-    </table>
+          <img src="{{ post.image }}" class="nopadimg" alt="{{ title | escape }}">
+        </div>
+      </div>
+
+      <div class="papertext">
+        <h2>{{ title }}</h2>
+        <p>{{ post.authors }}</p>
+        <p><strong>TL;DR:</strong> {{ post.tldr }}</p>
+        {% if post.paperurl and post.codeurl and post.arxivurl and post.biburl %}
+          <p><a href="{{ post.paperurl }}">[Paper]</a> |
+             <a href="{{ post.codeurl }}">[Code]</a> |
+             <a href="{{ post.arxivurl }}">[arXiv]</a> |
+             <a href="{{ post.biburl }}">[BibTeX]</a></p>
+        {% elsif post.paperurl and post.arxivurl and post.biburl %}
+          <p><a href="{{ post.paperurl }}">[Paper]</a> |
+             <a href="{{ post.arxivurl }}">[arXiv]</a> |
+             <a href="{{ post.biburl }}">[BibTeX]</a></p>
+        {% elsif post.paperurl and post.biburl %}
+          <p><a href="{{ post.paperurl }}">[Paper]</a> |
+             <a href="{{ post.biburl }}">[BibTeX]</a></p>
+        {% endif %}
+      </div>
+    </div>
   </article>
 </div>
