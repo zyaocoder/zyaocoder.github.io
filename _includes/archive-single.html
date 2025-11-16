@@ -22,45 +22,77 @@
       margin-right:auto;
       margin-left:auto;
       margin-bottom:0em;
-        }
+    }
     .paperimage {
       padding-right:2.5%;
       width:30%;
       max-width:20%;
       border:none;
-        }
+    }
     .papertext {
       width:80%;
       vertical-align:middle;
       border:none;
       padding-bottom:0%;
-        }
+    }
+
+    /* ==== NEW: venue banner on image ==== */
+    .venue-wrapper {
+      position: relative;
+      display: inline-block;
+    }
+    .venue-wrapper img {
+      display: block;
+      width: 100%;
+    }
+    .venue-banner {
+      position: absolute;
+      top: 0;
+      left: 0;
+      padding: 4px 12px;
+      background: #0047ab; /* banner color */
+      color: #ffffff;
+      font-size: 0.8rem;
+      font-weight: 600;
+      border-bottom-right-radius: 10px;
+      z-index: 2;
+    }
   </style>
 </head>
 
 <div class="{{ include.type | default: "list" }}__item">
   <article>
-      <!-- paper table -->
+    <!-- paper table -->
     <table class="papertable">
-    <tr style="padding:0px">
-      <td class="paperimage"> 
-        <img src="{{post.image}}" class="nopadimg">
-      </td>
-      <td class="papertext"> 
-        <h2>{{title}}</h2>
-        <p> {{post.authors}}  </p>
-        <p> {{post.venue}}  </p>
-        <!-- <a class="w3-button btn w3-white w3-text-blue w3-border" href="https://simple-bev.github.io/">project page</a> -->
-        {% if post.paperurl and post.codeurl and post.arxivurl and post.biburl %}
-          <p><a  href="{{post.paperurl}}">[Paper]</a> | <a  href="{{post.codeurl}}">[Code]</a> | <a  href="{{post.arxivurl}}">[arXiv]</a> | <a  href="{{post.biburl}}">[BibTeX]</a></p>
-        {% elsif post.paperurl and post.arxivurl and post.biburl %}
-          <p><a  href="{{post.paperurl}}">[Paper]</a> | <a  href="{{post.arxivurl}}">[arXiv]</a> | <a  href="{{post.biburl}}">[BibTeX]</a></p>
-        {% elsif post.paperurl and post.biburl %}
-          <p><a  href="{{post.paperurl}}">[Paper]</a> | <a  href="{{post.biburl}}">[BibTeX]</a></p>
-        {% endif %}
-      </td>
-    </tr>
-  </table>
-    
+      <tr style="padding:0px">
+        <td class="paperimage">
+          <div class="venue-wrapper">
+            {% if post.venue %}
+            <div class="venue-banner">{{ post.venue }}</div>
+            {% endif %}
+            <img src="{{ post.image }}" class="nopadimg" alt="{{ title | escape }}">
+          </div>
+        </td>
+        <td class="papertext">
+          <h2>{{ title }}</h2>
+          <p>{{ post.authors }}</p>
+          <p>{{ post.venue }}</p>  {# delete this line if you don't want venue twice #}
+
+          {% if post.paperurl and post.codeurl and post.arxivurl and post.biburl %}
+            <p><a href="{{ post.paperurl }}">[Paper]</a> |
+               <a href="{{ post.codeurl }}">[Code]</a> |
+               <a href="{{ post.arxivurl }}">[arXiv]</a> |
+               <a href="{{ post.biburl }}">[BibTeX]</a></p>
+          {% elsif post.paperurl and post.arxivurl and post.biburl %}
+            <p><a href="{{ post.paperurl }}">[Paper]</a> |
+               <a href="{{ post.arxivurl }}">[arXiv]</a> |
+               <a href="{{ post.biburl }}">[BibTeX]</a></p>
+          {% elsif post.paperurl and post.biburl %}
+            <p><a href="{{ post.paperurl }}">[Paper]</a> |
+               <a href="{{ post.biburl }}">[BibTeX]</a></p>
+          {% endif %}
+        </td>
+      </tr>
+    </table>
   </article>
 </div>
