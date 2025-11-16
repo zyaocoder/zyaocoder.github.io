@@ -26,7 +26,7 @@
       display: flex;
       align-items: center;
       gap: 2.8rem;               /* space between image & text */
-      padding: 1.6rem 1.8rem;    /* makes the whole box larger */
+      padding: 0.3rem 1.8rem 0.3rem;    /* top | left/right | bottom */
       margin-bottom: 1.8rem;     /* space between entries */
       border-radius: 12px;
       background: #ffffff;
@@ -40,6 +40,10 @@
 
     .papertext {
       flex: 1 1 auto;            /* text takes the remaining width */
+    }
+
+    .papertext h2 {
+      margin-top: 0.2rem;   /* or 0 if you want it really tight */
     }
 
     /* ==== image card + banner ==== */
