@@ -12,11 +12,20 @@
   {% assign title = post.title %}
 {% endif %}
 
+.paper-card {
+  display: inline-block;          /* so scale behaves nicely */
+  transform: scale(1.5);          /* 150% of original size */
+  transform-origin: top left;     /* grow down/right from top-left */
+  margin-bottom: 2.5rem;          /* extra space between big cards */
+}
+
 <head>
   <style>
     /* === Card for one publication === */
     .paper-row {
-      display: flex;
+      display: inline-block;
+      transform: scale(1.5);
+      transform-origin: top left;
       align-items: center;
       gap: 2.8rem;               /* space between image & text */
       padding: 1.6rem 1.8rem;    /* makes the whole box larger */
@@ -81,33 +90,35 @@
 
 <div class="{{ include.type | default: "list" }}__item">
   <article>
-    <div class="paper-row">
-      <div class="paperimage">
-        <div class="venue-wrapper">
-          {% if post.venue %}
-          <div class="venue-banner">{{ post.venue }}</div>
-          {% endif %}
-          <img src="{{ post.image }}" class="nopadimg" alt="{{ title | escape }}">
+    <div class="paper-card">
+      <div class="paper-row">
+        <div class="paperimage">
+          <div class="venue-wrapper">
+            {% if post.venue %}
+            <div class="venue-banner">{{ post.venue }}</div>
+            {% endif %}
+            <img src="{{ post.image }}" class="nopadimg" alt="{{ title | escape }}">
+          </div>
         </div>
-      </div>
 
-      <div class="papertext">
-        <h2>{{ title }}</h2>
-        <p>{{ post.authors }}</p>
-        <p><strong>TL;DR:</strong> {{ post.tldr }}</p>
-        {% if post.paperurl and post.codeurl and post.arxivurl and post.biburl %}
-          <p><a href="{{ post.paperurl }}">[Paper]</a> |
-             <a href="{{ post.codeurl }}">[Code]</a> |
-             <a href="{{ post.arxivurl }}">[arXiv]</a> |
-             <a href="{{ post.biburl }}">[BibTeX]</a></p>
-        {% elsif post.paperurl and post.arxivurl and post.biburl %}
-          <p><a href="{{ post.paperurl }}">[Paper]</a> |
-             <a href="{{ post.arxivurl }}">[arXiv]</a> |
-             <a href="{{ post.biburl }}">[BibTeX]</a></p>
-        {% elsif post.paperurl and post.biburl %}
-          <p><a href="{{ post.paperurl }}">[Paper]</a> |
-             <a href="{{ post.biburl }}">[BibTeX]</a></p>
-        {% endif %}
+        <div class="papertext">
+          <h2>{{ title }}</h2>
+          <p>{{ post.authors }}</p>
+          <p><strong>TL;DR:</strong> {{ post.tldr }}</p>
+          {% if post.paperurl and post.codeurl and post.arxivurl and post.biburl %}
+            <p><a href="{{ post.paperurl }}">[Paper]</a> |
+               <a href="{{ post.codeurl }}">[Code]</a> |
+               <a href="{{ post.arxivurl }}">[arXiv]</a> |
+               <a href="{{ post.biburl }}">[BibTeX]</a></p>
+          {% elsif post.paperurl and post.arxivurl and post.biburl %}
+            <p><a href="{{ post.paperurl }}">[Paper]</a> |
+               <a href="{{ post.arxivurl }}">[arXiv]</a> |
+               <a href="{{ post.biburl }}">[BibTeX]</a></p>
+          {% elsif post.paperurl and post.biburl %}
+            <p><a href="{{ post.paperurl }}">[Paper]</a> |
+               <a href="{{ post.biburl }}">[BibTeX]</a></p>
+          {% endif %}
+        </div>
       </div>
     </div>
   </article>
