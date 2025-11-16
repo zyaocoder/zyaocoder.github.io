@@ -10,6 +10,7 @@ biburl: '../files/wacv2025.txt'
 authors: '<strong>Zhen Yao</strong>, Mooi Choo Chuah'
 citation: 'Yao, Zhen, and Mooi Choo Chuah. "Event-guided Low-light Video Semantic Segmentation." WACV 2025.'
 image: '../images/2025_wacv_evsnet.png'
+tldr: 'We propose EVSNet, a lightweight framework that introduces event modality to guide the learning of a unified illumination-invariant representation and it outperforms SOTA methods with up to 11× higher parameter efficiency.'
 ---
 
 [Download paper here](https://openaccess.thecvf.com/content/WACV2025/papers/Yao_Event-Guided_Low-Light_Video_Semantic_Segmentation_WACV_2025_paper.pdf)
