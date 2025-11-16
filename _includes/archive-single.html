@@ -14,36 +14,40 @@
 
 <head>
   <style>
-    /* Layout for one publication row */
+    /* === Card for one publication === */
     .paper-row {
       display: flex;
-      align-items: center;     /* vertically center image & text */
-      gap: 2.4rem;             /* <— space between image and text */
-      margin-bottom: 1.5rem;   /* space between entries */
+      align-items: center;
+      gap: 2.8rem;               /* space between image & text */
+      padding: 1.6rem 1.8rem;    /* makes the whole box larger */
+      margin-bottom: 1.8rem;     /* space between entries */
+      border-radius: 12px;
+      background: #ffffff;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.08);
     }
 
     .paperimage {
-      flex: 0 0 40%;           /* image column width */
-      max-width: 380px;
+      flex: 0 0 45%;             /* image column gets ~45% width */
+      max-width: 440px;          /* increase max width -> larger image */
     }
 
     .papertext {
-      flex: 1 1 auto;          /* text takes remaining width */
+      flex: 1 1 auto;            /* text takes the remaining width */
     }
 
     /* ==== image card + banner ==== */
     .venue-wrapper {
       position: relative;
       display: block;
-      border-radius: 6px;
-      overflow: hidden;
-      box-shadow: 0 6px 16px rgba(0,0,0,0.18);
+      border-radius: 8px;
+      overflow: hidden;          /* round corners of image + banner */
       background: #fff;
+      /* shadow now on whole box, so no extra here */
     }
 
     .venue-wrapper img {
       display: block;
-      width: 100%;             /* fill the image column */
+      width: 100%;               /* fill image column */
       height: auto;
     }
 
@@ -58,6 +62,19 @@
       font-weight: 600;
       border-bottom-right-radius: 10px;
       z-index: 2;
+    }
+
+    /* Optional: nicer stacking on narrow screens */
+    @media (max-width: 768px) {
+      .paper-row {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+      .paperimage {
+        flex: 0 0 auto;
+        max-width: 100%;
+        width: 100%;
+      }
     }
   </style>
 </head>
