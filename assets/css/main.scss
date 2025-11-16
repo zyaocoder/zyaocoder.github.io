@@ -39,3 +39,19 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+.paper-box-image > div {
+  position: relative;
+}
+
+.paper-box-image .badge {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  padding: 4px 10px;
+  border-radius: 4px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  background: rgba(0, 0, 0, 0.75); /* or your theme color */
+  color: #fff;
+}
