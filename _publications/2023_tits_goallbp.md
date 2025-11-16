@@ -9,6 +9,7 @@ biburl: '../files/tits2023.txt'
 authors: '<strong>Zhen Yao</strong>, Xin Li, Bo Lang, Mooi Choo Chuah'
 citation: 'Yao, Zhen, Xin Li, Bo Lang, and Mooi Choo Chuah. "Goal-lbp: Goal-based local behavior guided trajectory prediction for autonomous driving." IEEE-TITS 2023.'
 image: '../images/2023_tits_goallbp.png'
+tldr: 'We propose a goal-based local behavior guided model, Goal-LBP, using historical paths at a certain location (referred as local behavior data) to generate potential goals and guide the prediction of trajectories conditioned on such goals.'
 ---
 
 [Download paper here](https://ieeexplore.ieee.org/abstract/document/10367760)
