@@ -35,12 +35,10 @@ Teaching
 * P.C. Rossing College of Engineering and Applied Science, Lehigh University
 * Instructor: [Dr. Brian D. Davison](https://www.cse.lehigh.edu/~brian/)
 * Duties: Assisted 100+ students in understanding Machine Learning and data mining theory; Hosted weekly lab sessions to guide students in hands-on coding exercises
-* 
 <strong>Teaching Assistant of CPSC 3220： Introduction to Operating Systems, Fall 2020</strong>
 * School of Computing, Clemson University
 * Instructor: [Dr. Mark Smotherman](https://people.computing.clemson.edu/~mark/)
 * Duties: Assisted with grading homework and exams; Replied students' emails and answered their questions
-
 <strong>Teaching Assistant of CS-2214: Computer Architecture, Fall 2019 & Spring 2020</strong>
 * Tandon School of Engineering, New York University
 * Instructor: [Prof. Anam Waheed](https://www.linkedin.com/in/anam-waheed/)
