@@ -19,7 +19,7 @@
       display: inline-block;          /* so scale behaves nicely */
       width: 180%; 
       transform-origin: top left;     /* grow down/right from top-left */
-      margin-bottom: 2.5rem;          /* extra space between big cards */
+      margin-bottom: 0.6rem;          /* extra space between big cards */
     }
     
     .paper-row {
@@ -27,14 +27,14 @@
       align-items: center;
       gap: 1rem;               /* space between image & text */
       padding: 0.3rem 1.8rem 0.3rem;    /* top | left/right | bottom */
-      margin-bottom: 1.8rem;     /* space between entries */
+      margin-bottom: 0.2rem;     /* space between entries */
       border-radius: 15px;
       background: #ffffff;
       box-shadow: 0 10px 30px rgba(0,0,0,0.08);
     }
 
     .paperimage {
-      flex: 0 0 45%;             /* image column gets ~45% width */
+      flex: 0 0 40%;             /* image column gets ~45% width */
       max-width: 440px;          /* increase max width -> larger image */
     }
 
@@ -44,7 +44,7 @@
     }
 
     .papertext h2 {
-      font-size: 0.9rem;
+      font-size: 1.1rem;
       margin-top: 0.2rem;   /* or 0 if you want it really tight */
     }
 
@@ -112,8 +112,8 @@
 
         <div class="papertext">
           <h2>{{ title }}</h2>
-          <p>{{ post.authors }}</p>
-          <p><strong>TL;DR:</strong> {{ post.tldr }}</p>
+          <p>{{ post.authors }} </p>
+          <p><strong>TL;DR:</strong> {{ post.tldr }} </p>
           {% if post.paperurl and post.codeurl and post.arxivurl and post.biburl %}
             <p><a href="{{ post.paperurl }}">[Paper]</a> |
                <a href="{{ post.codeurl }}">[Code]</a> |
