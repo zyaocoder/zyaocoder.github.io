@@ -9,6 +9,7 @@ biburl: '../files/wacv2023.txt'
 authors: 'Zhihao Zheng, Xiaowen Ying, <strong>Zhen Yao</strong>, Mooi Choo Chuah'
 citation: 'Zheng, Zhihao, Xiaowen Ying, Zhen Yao, and Mooi Choo Chuah. "Robustness of trajectory prediction models under map-based attacks." WACV 2023.'
 image: '../images/2023_wacv_advattack.png'
+tldr: 'We study the robustness of trajectory prediction models with image-based or node-based map representations under our newly proposed map-based adversarial attacks and propose two effective defense mechanisms to defend against such map-based attacks.'
 ---
 
 [Download paper here](https://openaccess.thecvf.com/content/WACV2023/papers/Zheng_Robustness_of_Trajectory_Prediction_Models_Under_Map-Based_Attacks_WACV_2023_paper.pdf)
