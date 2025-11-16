@@ -36,9 +36,9 @@ Skills
 ======
 * Languages: Python, C/C++, MATLAB, Git, Bash
 * Deep Learning Frameworks: PyTorch, Detectron2, TensorFlow, Linux, OpenCV, CUDA, MMCV
-* Computer Vision Algorithms: Image and Video Segmentation, Vision-Language Models, Multimodal Foundation Models, Multi-Sensor Fusion, Low-Light Vision, Model Fine-tuning, Edge Devices
+* Computer Vision Algorithms: Multimodal Perception, Multimodal Reasoning, Vision-Language Models, Multimodal Large Language Models, Image and Video Segmentation, Foundation Models, Multi-Sensor Fusion, Low-Light Vision
 * Technologies & Tools: Bitbucket, Hugging Face, Docker, Visual Studio
-* Soft skills: Written and Verbal Communication Skills, Teamwork, Academic Writing, Mathematical Skills, Creative
+* Soft skills: Written and Verbal Communication Skills, Teamwork, Academic Writing, Mathematical Skills, Creativity
 * Hobbies: Basketball, Pickleball, Traveling
 
 Publications
