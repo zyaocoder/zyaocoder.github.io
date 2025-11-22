@@ -8,13 +8,13 @@ redirect_from:
   - /markdown.html
 ---
 
-* *2025/11*: 🥳 I will join NEC Labs America <img src="../images/nec.png" alt="NEC Labs" style="height:58px; width:auto;"> as a Research Intern in Spring 2026, working on Multimodal Reasoning and Vision Language Models.
+* *2025/11*: 🥳 I will join NEC Labs America <img src="../images/nec.png" alt="NEC Labs" style="height:48px; width:auto;"> as a Research Intern in Spring 2026, working on Multimodal Reasoning and Vision Language Models.
 
 * *2025/8*: 🥳 My internship Johnson & Johnson <img src="../images/jnj.png" alt="Johnson & Johnson" width="20%"> is extended to full semester.
 
 * *2025/5*: 🥳 I will join Johnson & Johnson <img src="../images/jnj.png" alt="Johnson & Johnson" width="20%"> as a Computer Vision Intern in Summer 2025, working on Foundation Models and Medical Imageing.
 
-* *2025/2*: 🎉 Github repo of Our preprint [Learning Flow-Guided Registration for RGB-Event Semantic Segmentation](https://www.arxiv.org/abs/2505.01548) is released! [![](https://img.shields.io/github/stars/zyaocoder/BRENet?style=social)](https://github.com/zyaocoder/BRENet)
+* *2025/2*: 🎉 Github repo of our preprint [Learning Flow-Guided Registration for RGB-Event Semantic Segmentation](https://www.arxiv.org/abs/2505.01548) is released! [![](https://img.shields.io/github/stars/zyaocoder/BRENet?style=social)](https://github.com/zyaocoder/BRENet)
 
 * *2024/12*: Organize [8th Workshop on Efficient Deep Learning for Computer Vision](https://lpcv.ai/) as Technical Program Committee, in conjunction with CVPR 2025
  
