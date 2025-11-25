@@ -12,7 +12,7 @@ redirect_from:
 
 * *2025/8*: 🥳 My internship Johnson & Johnson <img src="../images/jnj.png" alt="Johnson & Johnson" width="20%"> is extended to full semester.
 
-* *2025/5*: 🥳 I will join Johnson & Johnson <img src="../images/jnj.png" alt="Johnson & Johnson" width="20%"> as a Computer Vision Intern in Summer 2025, working on Foundation Models and Medical Imageing.
+* *2025/5*: 🥳 I will join Johnson & Johnson <img src="../images/jnj.png" alt="Johnson & Johnson" width="20%"> as a Computer Vision Intern in Summer 2025, working on Medical Imaging and Foundation Models.
 
 * *2025/2*: 🎉 Github repo of our preprint [Learning Flow-Guided Registration for RGB-Event Semantic Segmentation](https://www.arxiv.org/abs/2505.01548) is released! [![](https://img.shields.io/github/stars/zyaocoder/BRENet?style=social)](https://github.com/zyaocoder/BRENet)
 
