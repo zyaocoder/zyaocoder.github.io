@@ -48,16 +48,16 @@ Skills
 
 Publications
 ======
-* [**ICASSP 2026**] [ChromouVQA: Benchmarking Vision-Language Models under Chromatic Camouflaged Images](https://www.arxiv.org/abs/2512.05137) <br>
+* **[ICASSP 2026]** [ChromouVQA: Benchmarking Vision-Language Models under Chromatic Camouflaged Images](https://www.arxiv.org/abs/2512.05137) <br>
 <small>Yunfei Zhang, Yizhuo He, Yuanxun Shao, Zhengtao Yao, Haoyan Xu, Junhao Dong, **Zhen Yao**, Zhikang Dong. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2026.</small>
 * **[arXiv 2025]** [Learning Flow-Guided Registration for RGB–Event Semantic Segmentation](https://www.arxiv.org/abs/2505.01548) <br>
 <small>**Zhen Yao**, Xiaowen Ying, Zhiyu Zhu, and Mooi Choo Chuah. arXiv, 2025.</small>
-* [WACV 2025] [Event-guided Low-light Video Semantic Segmentation](https://openaccess.thecvf.com/content/WACV2025/html/Yao_Event-Guided_Low-Light_Video_Semantic_Segmentation_WACV_2025_paper.html) <br>
+* **[WACV 2025]** [Event-guided Low-light Video Semantic Segmentation](https://openaccess.thecvf.com/content/WACV2025/html/Yao_Event-Guided_Low-Light_Video_Semantic_Segmentation_WACV_2025_paper.html) <br>
 <small>**Zhen Yao**, and Mooi Choo Chuah. IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2025.</small>
-* [ICRA 2024] [CrackNex: a Few-shot Low-light Crack Segmentation Model Based on Retinex Theory for UAV Inspections](https://ieeexplore.ieee.org/document/10611660) <br>
+* **[ICRA 2024]** [CrackNex: a Few-shot Low-light Crack Segmentation Model Based on Retinex Theory for UAV Inspections](https://ieeexplore.ieee.org/document/10611660) <br>
 <small>**Zhen Yao**, Jiawei Xu, Shuhang Hou, and Mooi Choo Chuah. IEEE International Conference on Robotics and Automation (ICRA), 2024.</small>
-* [T-ITS 2023] [Goal-lbp: Goal-based local behavior guided trajectory prediction for autonomous driving](https://ieeexplore.ieee.org/abstract/document/10367760) <br>
+* **[T-ITS 2023]** [Goal-lbp: Goal-based local behavior guided trajectory prediction for autonomous driving](https://ieeexplore.ieee.org/abstract/document/10367760) <br>
 <small>**Zhen Yao**, Xin Li, Bo Lang, and Mooi Choo Chuah. IEEE Transactions on Intelligent Transportation Systems (T-ITS), 2023.</small>
-* [WACV 2023] [Robustness of trajectory prediction models under map-based attacks](https://openaccess.thecvf.com/content/WACV2023/html/Zheng_Robustness_of_Trajectory_Prediction_Models_Under_Map-Based_Attacks_WACV_2023_paper.html) <br>
+* **[WACV 2023]** [Robustness of trajectory prediction models under map-based attacks](https://openaccess.thecvf.com/content/WACV2023/html/Zheng_Robustness_of_Trajectory_Prediction_Models_Under_Map-Based_Attacks_WACV_2023_paper.html) <br>
 <small>Zhihao Zheng, Xiaowen Ying, **Zhen Yao**, and Mooi Choo Chuah. IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2023.</small>
 
