@@ -8,6 +8,8 @@ redirect_from:
   - /markdown.html
 ---
 
+* *2026/1*: 🎉 Our paper [ChromouVQA: Benchmarking Vision-Language Models under Chromatic Camouflaged Images](https://www.arxiv.org/abs/2512.05137) is accepted by ICASSP 2026! [![](https://img.shields.io/github/stars/Chromou-VQA-Benchmark/Chromou-VQA?style=social)](https://github.com/Chromou-VQA-Benchmark/Chromou-VQA)
+
 * *2025/11*: 🥳 I will join NEC Labs America <img src="../images/nec.png" alt="NEC Labs" style="height:36px; width:auto;"> as a Research Intern in Spring 2026, working on Multimodal Reasoning and Vision Language Models.
 
 * *2025/8*: 🥳 My internship Johnson & Johnson <img src="../images/jnj.png" alt="Johnson & Johnson" width="20%"> is extended to full semester.
