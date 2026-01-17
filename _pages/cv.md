@@ -22,6 +22,11 @@ Work experience
   * Supervisor: [Mooi Choo Chuah](https://www.cse.lehigh.edu/~chuah/)
   * Conduct research and propose cutting-edge algorithms; Design experiments and perform qualitative and quantitative evaluations
 
+* 2026/01 - Present: **NEC Laboratories America** | Princeton, NJ <br>
+  *Research Intern*
+  * Mentor: [Eric Cosatto](https://scholar.google.com/citations?user=CBzRa74AAAAJ&hl=en)
+  * Propose a model for quantitative reasoning for multimodal reasoning
+  * 
 * 2025/05 - 2025/11: **Johnson & Johnson**, Computer Vision Team | Cambridge, MA <br>
   *AI/ML Intern, Computer Vision*
   * Mentor: [Brandon Ginley](https://scholar.google.com/citations?user=UDz46zwAAAAJ&hl=en)
@@ -34,15 +39,17 @@ Work experience
   
 Skills
 ======
-* Languages: Python, C/C++, MATLAB, Git, Bash
-* Deep Learning Frameworks: PyTorch, Detectron2, TensorFlow, Linux, OpenCV, CUDA, MMCV
 * Computer Vision Algorithms: Multimodal Perception, Multimodal Reasoning, Vision-Language Models, Multimodal Large Language Models, Image and Video Segmentation, Foundation Models, Multi-Sensor Fusion, Low-Light Vision
+* Deep Learning Frameworks: PyTorch, Detectron2, TensorFlow, Linux, OpenCV, CUDA, MMCV
 * Technologies & Tools: Bitbucket, Hugging Face, Docker, Visual Studio
+* Languages: Python, C/C++, MATLAB, Git, Bash
 * Soft skills: Written and Verbal Communication Skills, Teamwork, Academic Writing, Mathematical Skills, Creativity
 * Hobbies: Basketball, Pickleball, Traveling
 
 Publications
 ======
+* [ICASSP 2026] [ChromouVQA: Benchmarking Vision-Language Models under Chromatic Camouflaged Images](https://www.arxiv.org/abs/2512.05137) <br>
+<small>Yunfei Zhang, Yizhuo He, Yuanxun Shao, Zhengtao Yao, Haoyan Xu, Junhao Dong, **Zhen Yao**, Zhikang Dong. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2026.</small>
 * [arXiv 2025] [Learning Flow-Guided Registration for RGB–Event Semantic Segmentation](https://www.arxiv.org/abs/2505.01548) <br>
 <small>**Zhen Yao**, Xiaowen Ying, Zhiyu Zhu, and Mooi Choo Chuah. arXiv, 2025.</small>
 * [WACV 2025] [Event-guided Low-light Video Semantic Segmentation](https://openaccess.thecvf.com/content/WACV2025/html/Yao_Event-Guided_Low-Light_Video_Semantic_Segmentation_WACV_2025_paper.html) <br>
