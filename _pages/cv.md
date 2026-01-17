@@ -26,7 +26,7 @@ Work experience
   *Research Intern*
   * Mentor: [Eric Cosatto](https://scholar.google.com/citations?user=CBzRa74AAAAJ&hl=en)
   * Propose a model for quantitative reasoning for multimodal reasoning
-  * 
+  
 * 2025/05 - 2025/11: **Johnson & Johnson**, Computer Vision Team | Cambridge, MA <br>
   *AI/ML Intern, Computer Vision*
   * Mentor: [Brandon Ginley](https://scholar.google.com/citations?user=UDz46zwAAAAJ&hl=en)
@@ -48,9 +48,9 @@ Skills
 
 Publications
 ======
-* [ICASSP 2026] [ChromouVQA: Benchmarking Vision-Language Models under Chromatic Camouflaged Images](https://www.arxiv.org/abs/2512.05137) <br>
+* [**ICASSP 2026**] [ChromouVQA: Benchmarking Vision-Language Models under Chromatic Camouflaged Images](https://www.arxiv.org/abs/2512.05137) <br>
 <small>Yunfei Zhang, Yizhuo He, Yuanxun Shao, Zhengtao Yao, Haoyan Xu, Junhao Dong, **Zhen Yao**, Zhikang Dong. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2026.</small>
-* [arXiv 2025] [Learning Flow-Guided Registration for RGB–Event Semantic Segmentation](https://www.arxiv.org/abs/2505.01548) <br>
+* **[arXiv 2025]** [Learning Flow-Guided Registration for RGB–Event Semantic Segmentation](https://www.arxiv.org/abs/2505.01548) <br>
 <small>**Zhen Yao**, Xiaowen Ying, Zhiyu Zhu, and Mooi Choo Chuah. arXiv, 2025.</small>
 * [WACV 2025] [Event-guided Low-light Video Semantic Segmentation](https://openaccess.thecvf.com/content/WACV2025/html/Yao_Event-Guided_Low-Light_Video_Semantic_Segmentation_WACV_2025_paper.html) <br>
 <small>**Zhen Yao**, and Mooi Choo Chuah. IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2025.</small>
