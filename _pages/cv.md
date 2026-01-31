@@ -50,7 +50,7 @@ Skills
 Publications
 ======
 * **[arXiv 2026]** [DiSa: Saliency-Aware Foreground-Background Disentangled Framework for Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2601.20064) <br>
-<small>**Zhen Yao**, Xin Li, Taotao Jing, Shuai Zhang, and Mooi Choo Chuah. arXiv, 2025.</small>
+<small>**Zhen Yao**, Xin Li, Taotao Jing, Shuai Zhang, and Mooi Choo Chuah. arXiv, 2026.</small>
 * **[ICASSP 2026]** [ChromouVQA: Benchmarking Vision-Language Models under Chromatic Camouflaged Images](https://www.arxiv.org/abs/2512.05137) <br>
 <small>Yunfei Zhang, Yizhuo He, Yuanxun Shao, Zhengtao Yao, Haoyan Xu, Junhao Dong, **Zhen Yao**, Zhikang Dong. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2026.</small>
 * **[arXiv 2025]** [Learning Flow-Guided Registration for RGB–Event Semantic Segmentation](https://www.arxiv.org/abs/2505.01548) <br>
