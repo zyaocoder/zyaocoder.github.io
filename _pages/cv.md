@@ -22,7 +22,7 @@ Work experience
   * Mentor: [Eric Cosatto](https://scholar.google.com/citations?user=CBzRa74AAAAJ&hl=en)
   * Propose a model for quantitative reasoning and multimodal reasoning
   
-* 2025/05 - 2025/11: **Johnson & Johnson**, Computer Vision Team | Cambridge, MA <br>
+* 2025/05 - 2025/11: **Johnson & Johnson** | Cambridge, MA <br>
   *AI/ML Intern, Computer Vision*
   * Mentor: [Brandon Ginley](https://scholar.google.com/citations?user=UDz46zwAAAAJ&hl=en)
   * Propose a semi-supervised learning approach that leverages foundation models to improve annotation efficiency
