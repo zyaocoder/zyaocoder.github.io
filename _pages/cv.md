@@ -17,15 +17,10 @@ Education
   
 Work experience
 ======
-* 2021/02 - Present: **Lehigh University**, WiNS Lab | Bethlehem, PA <br>
-  *Research Assistant*
-  * Supervisor: [Mooi Choo Chuah](https://www.cse.lehigh.edu/~chuah/)
-  * Conduct research and propose cutting-edge algorithms; Design experiments and perform qualitative and quantitative evaluations
-
 * 2026/01 - Present: **NEC Laboratories America** | Princeton, NJ <br>
   *Research Intern*
   * Mentor: [Eric Cosatto](https://scholar.google.com/citations?user=CBzRa74AAAAJ&hl=en)
-  * Propose a model for quantitative reasoning for multimodal reasoning
+  * Propose a model for quantitative reasoning and multimodal reasoning
   
 * 2025/05 - 2025/11: **Johnson & Johnson**, Computer Vision Team | Cambridge, MA <br>
   *AI/ML Intern, Computer Vision*
@@ -36,7 +31,13 @@ Work experience
   *Technical Program Committee*
   * Mentor: [Shuai Zhang](https://zsivine.github.io/)
   * Organize the 2025 IEEE Low Power Computer Vision Challenge (LPCVC) open-vocabulary segmentation track (40+ teams involved); Collect data and evaluate the baseline model
-  
+
+* 2021/02 - Present: **Lehigh University**, WiNS Lab | Bethlehem, PA <br>
+  *Research Assistant*
+  * Supervisor: [Mooi Choo Chuah](https://www.cse.lehigh.edu/~chuah/)
+  * Conduct research and propose cutting-edge algorithms; Design experiments and perform qualitative and quantitative evaluations
+
+
 Skills
 ======
 * Computer Vision Algorithms: Multimodal Perception, Multimodal Reasoning, Vision-Language Models, Multimodal Large Language Models, Image and Video Segmentation, Foundation Models, Multi-Sensor Fusion, Low-Light Vision
@@ -48,6 +49,8 @@ Skills
 
 Publications
 ======
+* **[arXiv 2025]** [DiSa: Saliency-Aware Foreground-Background Disentangled Framework for Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2601.20064) <br>
+<small>**Zhen Yao**, Xin Li, Taotao Jing, Shuai Zhang, and Mooi Choo Chuah. arXiv, 2025.</small>
 * **[ICASSP 2026]** [ChromouVQA: Benchmarking Vision-Language Models under Chromatic Camouflaged Images](https://www.arxiv.org/abs/2512.05137) <br>
 <small>Yunfei Zhang, Yizhuo He, Yuanxun Shao, Zhengtao Yao, Haoyan Xu, Junhao Dong, **Zhen Yao**, Zhikang Dong. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2026.</small>
 * **[arXiv 2025]** [Learning Flow-Guided Registration for RGB–Event Semantic Segmentation](https://www.arxiv.org/abs/2505.01548) <br>
