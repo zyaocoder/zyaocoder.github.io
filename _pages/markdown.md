@@ -20,7 +20,7 @@ redirect_from:
 
 * *2024/12*: Organize [8th Workshop on Efficient Deep Learning for Computer Vision](https://lpcv.ai/) as Technical Program Committee, in conjunction with CVPR 2025
  
-* *2024/10*: 🎉 Our paper [Event-guided Low-light Video Semantic Segmentation](https://openaccess.thecvf.com/content/WACV2025/html/Yao_Event-Guided_Low-Light_Video_Semantic_Segmentation_WACV_2025_paper.html) is accepted by WACV 2025!
+* *2024/10*: 🎉 Our paper [Event-guided Low-light Video Semantic Segmentation](https://openaccess.thecvf.com/content/WACV2025/html/Yao_Event-Guided_Low-Light_Video_Semantic_Segmentation_WACV_2025_paper.html) is accepted by WACV 2025! [![](https://img.shields.io/github/stars/zyaocoder/EVSNet?style=social)](https://github.com/zyaocoder/EVSNet)
 
 * *2024/1*: 🎉 Our paper [CrackNex: a Few-shot Low-light Crack Segmentation Model Based on Retinex Theory for UAV Inspections](https://ieeexplore.ieee.org/document/10611660) is accepted by ICRA 2024! [![](https://img.shields.io/github/stars/zyaocoder/CrackNex?style=social)](https://github.com/zyaocoder/CrackNex)
 
