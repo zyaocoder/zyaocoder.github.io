@@ -8,7 +8,7 @@ redirect_from:
   - /markdown.html
 ---
 
-* *2026/1*: 🎉 Our paper [ChromouVQA: Benchmarking Vision-Language Models under Chromatic Camouflaged Images](https://www.arxiv.org/abs/2512.05137) is accepted by ICASSP 2026! [![](https://img.shields.io/github/stars/Chromou-VQA-Benchmark/Chromou-VQA?style=social)](https://github.com/Chromou-VQA-Benchmark/Chromou-VQA)
+* *2026/1*: 🎉 Our paper [ChromouVQA: Benchmarking Vision-Language Models under Chromatic Camouflaged Images](https://www.arxiv.org/abs/2512.05137) accepted to ICASSP 2026! [![](https://img.shields.io/github/stars/Chromou-VQA-Benchmark/Chromou-VQA?style=social)](https://github.com/Chromou-VQA-Benchmark/Chromou-VQA)
 
 * *2025/11*: 🥳 I will join NEC Labs America <img src="../images/nec.png" alt="NEC Labs" style="height:36px; width:auto;"> as a Research Intern in Spring 2026, working on Multimodal Reasoning and Vision Language Models.
 
@@ -20,12 +20,12 @@ redirect_from:
 
 * *2024/12*: Organize [8th Workshop on Efficient Deep Learning for Computer Vision](https://lpcv.ai/) as Technical Program Committee, in conjunction with CVPR 2025
  
-* *2024/10*: 🎉 Our paper [Event-guided Low-light Video Semantic Segmentation](https://openaccess.thecvf.com/content/WACV2025/html/Yao_Event-Guided_Low-Light_Video_Semantic_Segmentation_WACV_2025_paper.html) is accepted by WACV 2025! [![](https://img.shields.io/github/stars/zyaocoder/EVSNet?style=social)](https://github.com/zyaocoder/EVSNet)
+* *2024/10*: 🎉 Our paper [Event-guided Low-light Video Semantic Segmentation](https://openaccess.thecvf.com/content/WACV2025/html/Yao_Event-Guided_Low-Light_Video_Semantic_Segmentation_WACV_2025_paper.html) accepted to WACV 2025! [![](https://img.shields.io/github/stars/zyaocoder/EVSNet?style=social)](https://github.com/zyaocoder/EVSNet)
 
-* *2024/1*: 🎉 Our paper [CrackNex: a Few-shot Low-light Crack Segmentation Model Based on Retinex Theory for UAV Inspections](https://ieeexplore.ieee.org/document/10611660) is accepted by ICRA 2024! [![](https://img.shields.io/github/stars/zyaocoder/CrackNex?style=social)](https://github.com/zyaocoder/CrackNex)
+* *2024/1*: 🎉 Our paper [CrackNex: a Few-shot Low-light Crack Segmentation Model Based on Retinex Theory for UAV Inspections](https://ieeexplore.ieee.org/document/10611660) accepted to ICRA 2024! [![](https://img.shields.io/github/stars/zyaocoder/CrackNex?style=social)](https://github.com/zyaocoder/CrackNex)
 
-* *2023/12*: 🎉 Our paper [Goal-LBP: Goal-based Local Behavior Guided Trajectory Prediction for Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/10367760) is accepted by IEEE-TITS!
+* *2023/12*: 🎉 Our paper [Goal-LBP: Goal-based Local Behavior Guided Trajectory Prediction for Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/10367760) accepted to IEEE TITS!
 
-* *2022/8*: 🎉 Our paper [Robustness of trajectory prediction models under map-based attacks](https://openaccess.thecvf.com/content/WACV2023/html/Zheng_Robustness_of_Trajectory_Prediction_Models_Under_Map-Based_Attacks_WACV_2023_paper.html) is accepted by WACV 2023!
+* *2022/8*: 🎉 Our paper [Robustness of trajectory prediction models under map-based attacks](https://openaccess.thecvf.com/content/WACV2023/html/Zheng_Robustness_of_Trajectory_Prediction_Models_Under_Map-Based_Attacks_WACV_2023_paper.html) accepted to WACV 2023!
 
 * *2021/2*: Begin my new journey as a Ph.D. student at Lehigh University.
