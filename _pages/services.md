@@ -14,6 +14,7 @@ I regularly serve as a reviewer for top-tier venues in CV/ML.
 Conference/Journal reviewing
 ======
 * Conference on Computer Vision and Pattern Recognition (CVPR), 2025 - 2026
+* Conference on Neural Information Processing Systems (NeurIPS), 2026
 * International Conference on Machine Learning (ICML), 2026
 * International Conference on Computer Vision (ICCV), 2025
 * European Conference on Computer Vision (ECCV), 2026
