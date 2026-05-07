@@ -17,4 +17,3 @@ My research focuses on Multimodal and Computer Vision. I have served as a review
 * Vision-Language Model
 * Image/Video Segmentation
 * Multi-sensor Fusion
-* Event-based Camera
