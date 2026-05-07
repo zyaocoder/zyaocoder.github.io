@@ -17,7 +17,11 @@ Education
   
 Work experience
 ======
-* 2026/01 - Present: **NEC Laboratories America** | Princeton, NJ <br>
+* 2026/05 - 2026/08: **Woven by Toyota** | Palo Alto, CA <br>
+  *Machine Learning Intern*
+  * Working for perception of autonomous driving
+
+* 2026/01 - 2026/04: **NEC Laboratories America** | Princeton, NJ <br>
   *Research Intern*
   * Mentor: [Eric Cosatto](https://scholar.google.com/citations?user=CBzRa74AAAAJ&hl=en)
   * Propose a model for quantitative reasoning and multimodal reasoning
@@ -40,8 +44,8 @@ Work experience
 
 Skills
 ======
-* Computer Vision Algorithms: Multimodal Perception, Multimodal Reasoning, Vision-Language Models, Multimodal Large Language Models, Image and Video Segmentation, Foundation Models, Multi-Sensor Fusion, Low-Light Vision
-* Deep Learning Frameworks: PyTorch, Detectron2, TensorFlow, Linux, OpenCV, CUDA, MMCV
+* Computer Vision Algorithms: Multimodal Perception, Multimodal Reasoning, Vision-Language Models, Multimodal Large Language Models, Image and Video Segmentation, Foundation Models, Multi-Sensor Fusion
+* Deep Learning Frameworks: PyTorch, DeepSpeed, Detectron2, TensorFlow, Linux, OpenCV, CUDA, MMCV
 * Technologies & Tools: Bitbucket, Hugging Face, Docker, Visual Studio
 * Languages: Python, C/C++, MATLAB, Git, Bash
 * Soft skills: Written and Verbal Communication Skills, Teamwork, Academic Writing, Mathematical Skills, Creativity
@@ -49,6 +53,8 @@ Skills
 
 Publications
 ======
+* **[EMBC 2026]** [MIA FewSL: Few-Shot Segmentation with Foundation Models for Data-Efficient Whole Slide Histopathology Annotation]() <br>
+<small>**Zhen Yao**, Erik Ames Burlingame, Chaitanya Parmar, Brendon Lutnick, Patricia Raciti, Kristopher Standish, Albert Juan Ramon, Brandon Ginley. International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2026.</small>
 * **[arXiv 2026]** [DiSa: Saliency-Aware Foreground-Background Disentangled Framework for Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2601.20064) <br>
 <small>**Zhen Yao**, Xin Li, Taotao Jing, Shuai Zhang, and Mooi Choo Chuah. arXiv, 2026.</small>
 * **[ICASSP 2026]** [ChromouVQA: Benchmarking Vision-Language Models under Chromatic Camouflaged Images](https://www.arxiv.org/abs/2512.05137) <br>
