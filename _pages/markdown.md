@@ -7,6 +7,8 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
+* *2026/8*: 🎉 Our paper [Disa: Saliency-aware foreground-background disentangled framework for open-vocabulary semantic segmentation]() accepted to WACV 2027!
+
 * *2026/4*: 🥳 I will join Woven by Toyota <img src="../images/woven.png" alt="Woven by Toyota" style="height:36px; width:auto;"> as a Machine Learning Intern in Summer 2026, working on Multimodal Perception  and Vision Language Models.
 
 * *2026/4*: 🎉 Our paper [MIA FewSL: Few-Shot Segmentation with Foundation Models for Data-Efficient Whole Slide Histopathology Annotation]() during internship at J&J accepted to EMBC 2026!
