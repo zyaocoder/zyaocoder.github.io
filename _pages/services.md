@@ -19,7 +19,7 @@ Conference/Journal reviewing
 * International Conference on Computer Vision (ICCV), 2025
 * European Conference on Computer Vision (ECCV), 2026
 * ACM International Conference on Multimedia (ACM MM), 2025 - 2026
-* IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2025 - 2026
+* IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2025 - 2027
 * IEEE Transactions on Intelligent Transportation Systems	(IEEE T-ITS)
 
 Workshop organizing
