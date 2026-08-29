@@ -9,7 +9,7 @@ redirect_from:
 ---
 * *2026/8*: 🎉 Our paper [Disa: Saliency-aware foreground-background disentangled framework for open-vocabulary semantic segmentation]() accepted to WACV 2027!
 
-* *2026/5*: 🥳 I am selected as ICML gold reviewer.
+* *2026/5*: 🥳 I was recognized as a Gold Reviewer for ICML 2026.
 
 * *2026/4*: 🥳 I will join Woven by Toyota <img src="../images/woven.png" alt="Woven by Toyota" style="height:36px; width:auto;"> as a Machine Learning Intern in Summer 2026, working on 4D Perception and World Models.
 
