@@ -7,7 +7,7 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
-* *2026/10*: 🎉 Our paper [Learning Flow-Guided Registration for RGB-Event Semantic Segmentation](https://www.arxiv.org/abs/2505.01548) is accepted to IEEE TIP! [![](https://github.com/zyaocoder/BRENet?style=social)](https://github.com/zyaocoder/BRENet)
+* *2026/10*: 🎉 Our paper [Learning Flow-Guided Registration for RGB-Event Semantic Segmentation](https://www.arxiv.org/abs/2505.01548) is accepted to IEEE TIP! [![](https://img.shields.io/github/stars/zyaocoder/BRENet?style=social)](https://github.com/zyaocoder/BRENet)
 
 * *2026/8*: 🎉 Our paper [Disa: Saliency-aware foreground-background disentangled framework for open-vocabulary semantic segmentation]() accepted to WACV 2027!
 
