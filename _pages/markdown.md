@@ -7,6 +7,8 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
+* *2026/10*: 🎉 Our paper [Learning Flow-Guided Registration for RGB-Event Semantic Segmentation](https://www.arxiv.org/abs/2505.01548) is accepted to IEEE TIP! [![](https://github.com/zyaocoder/BRENet?style=social)](https://github.com/zyaocoder/BRENet)
+
 * *2026/8*: 🎉 Our paper [Disa: Saliency-aware foreground-background disentangled framework for open-vocabulary semantic segmentation]() accepted to WACV 2027!
 
 * *2026/5*: 🥳 I was recognized as a Gold Reviewer for ICML 2026.
@@ -22,8 +24,6 @@ redirect_from:
 * *2025/8*: 🥳 My internship Johnson & Johnson <img src="../images/jnj.png" alt="Johnson & Johnson" width="20%"> is extended to full semester.
 
 * *2025/5*: 🥳 I will join Johnson & Johnson <img src="../images/jnj.png" alt="Johnson & Johnson" width="20%"> as a Computer Vision Intern in Summer 2025, working on Medical Imaging and Foundation Models.
-
-* *2025/2*: 🎉 Github repo of our preprint [Learning Flow-Guided Registration for RGB-Event Semantic Segmentation](https://www.arxiv.org/abs/2505.01548) is released! [![](https://img.shields.io/github/stars/zyaocoder/BRENet?style=social)](https://github.com/zyaocoder/BRENet)
 
 * *2024/12*: Organize [8th Workshop on Efficient Deep Learning for Computer Vision](https://lpcv.ai/) as Technical Program Committee, in conjunction with CVPR 2025
  
