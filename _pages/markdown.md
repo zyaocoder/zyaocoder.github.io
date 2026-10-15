@@ -17,9 +17,9 @@ redirect_from:
 
 * *2026/4*: 🥳 I will join Woven by Toyota <img src="../images/woven.png" alt="Woven by Toyota" style="height:36px; width:auto;"> as a Machine Learning Intern in Summer 2026, working on 4D Perception and World Models.
 
-* *2026/4*: 🎉 Our paper [MIA FewSL: Few-Shot Segmentation with Foundation Models for Data-Efficient Whole Slide Histopathology Annotation]() during internship at J&J accepted to EMBC 2026!
+* *2026/4*: 🎉 Our paper [MIA FewSL: Few-Shot Segmentation with Foundation Models for Data-Efficient Whole Slide Histopathology Annotation]() during internship at J&J accepted to EMBC 2026 <p style="color: red;">(Oral)</p>!
 
-* *2026/1*: 🎉 Our paper [ChromouVQA: Benchmarking Vision-Language Models under Chromatic Camouflaged Images](https://www.arxiv.org/abs/2512.05137) accepted to ICASSP 2026! [![](https://img.shields.io/github/stars/Chromou-VQA-Benchmark/Chromou-VQA?style=social)](https://github.com/Chromou-VQA-Benchmark/Chromou-VQA)
+* *2026/1*: 🎉 Our paper [ChromouVQA: Benchmarking Vision-Language Models under Chromatic Camouflaged Images](https://www.arxiv.org/abs/2512.05137) accepted to ICASSP 2026 <p style="color: red;">(Oral)</p>! [![](https://img.shields.io/github/stars/Chromou-VQA-Benchmark/Chromou-VQA?style=social)](https://github.com/Chromou-VQA-Benchmark/Chromou-VQA)
 
 * *2025/11*: 🥳 I will join NEC Labs America <img src="../images/nec.png" alt="NEC Labs" style="height:36px; width:auto;"> as a Research Intern in Spring 2026, working on Multimodal Reasoning and Vision Language Models.
 
