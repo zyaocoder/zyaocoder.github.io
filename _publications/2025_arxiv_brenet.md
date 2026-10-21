@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2025_arxiv_brenet
 date: 2025-05-02
 venue: 'IEEE-TIP 2026'
-paperurl: ''
+paperurl: 'https://ieeexplore.ieee.org/document/11743326'
 codeurl: 'https://github.com/zyaocoder/BRENet'
 arxivurl: 'https://www.arxiv.org/abs/2505.01548'
 biburl: '../files/arxiv2025.txt'
