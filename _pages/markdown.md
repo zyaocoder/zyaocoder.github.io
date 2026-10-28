@@ -7,9 +7,13 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
+* *2026/10*: 🥳 I passed my doctoral dissertation defense!
+
 * *2026/10*: 🎉 Two of our papers [RINO: Relational Graph Neural Networks for Open-Vocabulary Semantic Segmentation]() and [Beyond Correlation: Causal Token Pruning for Efficient Vision-Language Model Inference]() accepted to WACV 2027!
 
 * *2026/10*: 🎉 Our paper [Learning Flow-Guided Registration for RGB-Event Semantic Segmentation](https://www.arxiv.org/abs/2505.01548) accepted to IEEE TIP! [![](https://img.shields.io/github/stars/zyaocoder/BRENet?style=social)](https://github.com/zyaocoder/BRENet)
+
+* *2026/10*: 🥳 I will return to Woven by Toyota <img src="../images/woven.png" alt="Woven by Toyota" style="height:36px; width:auto;"> as a Machine Learning Engineer II in Nov 2026, working on 4D Perception and World Models.
 
 * *2026/8*: 🎉 Our paper [Disa: Saliency-aware foreground-background disentangled framework for open-vocabulary semantic segmentation](https://arxiv.org/abs/2601.20064) accepted to WACV 2027!
 
