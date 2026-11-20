@@ -7,7 +7,7 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
-* *2026/10*: 🥳 I passed my doctoral dissertation defense!
+* *2026/10*: 🥳 I passed my doctoral dissertation defense! Officially Dr. Yao! 🎓😊
 
 * *2026/10*: 🎉 Two of our papers [RINO: Relational Graph Neural Networks for Open-Vocabulary Semantic Segmentation]() and [Beyond Correlation: Causal Token Pruning for Efficient Vision-Language Model Inference]() accepted to WACV 2027!
 
