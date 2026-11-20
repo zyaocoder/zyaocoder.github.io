@@ -35,7 +35,7 @@ Work experience
   * Mentor: [Brandon Ginley](https://scholar.google.com/citations?user=UDz46zwAAAAJ&hl=en)
   * Propose a semi-supervised learning approach that leverages foundation models to improve annotation efficiency
 
-* 2021/02 - Present: **Lehigh University**, WiNS Lab | Bethlehem, PA <br>
+* 2021/02 - 2026/11: **Lehigh University**, WiNS Lab | Bethlehem, PA <br>
   *Research Assistant*
   * Supervisor: [Mooi Choo Chuah](https://www.cse.lehigh.edu/~chuah/)
   * Conduct research and propose cutting-edge algorithms; Design experiments and perform qualitative and quantitative evaluations
