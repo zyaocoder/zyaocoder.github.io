@@ -17,6 +17,10 @@ Education
   
 Work experience
 ======
+* 2026/11 - Present: **Woven by Toyota** | Palo Alto, CA <br>
+  *Machine Learning Engineer II*
+  * Working for vehicle perception and world understanding
+
 * 2026/05 - 2026/08: **Woven by Toyota** | Palo Alto, CA <br>
   *Machine Learning Intern*
   * Working for perception of autonomous driving
@@ -55,8 +59,12 @@ Publications
 ======
 * **[IEEE-TIP 2026]** [Learning Flow-Guided Registration for RGB–Event Semantic Segmentation](https://www.arxiv.org/abs/2505.01548) <br>
 <small>**Zhen Yao**, Xiaowen Ying, Zhiyu Zhu, and Mooi Choo Chuah. IEEE Transactions on Image Processing (TIP), 2026.</small>
-* **[WACV 2027]** [Disa: Saliency-aware foreground-background disentangled framework for open-vocabulary semantic segmentation]() <br>
+* **[WACV 2027]** [Disa: Saliency-aware foreground-background disentangled framework for open-vocabulary semantic segmentation](https://arxiv.org/abs/2601.20064) <br>
 <small>**Zhen Yao**, Xin Li, Taotao Jing, Shuai Zhang, and Mooi Choo Chuah. IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2027.</small>
+* **[WACV 2027]** [RINO: Relational Graph Neural Networks for Open-Vocabulary Semantic Segmentation]() <br>
+<small>**Zhen Yao**, Houliang Zhou, Haoyan Xu, and Mooi Choo Chuah. IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2027.</small>
+* **[WACV 2027]** [Beyond Correlation: Causal Token Pruning for Efficient Vision-Language Model Inference]() <br>
+<small>Zhihao Zheng, **Zhen Yao**, Xiaowen Ying, Shuai Zhang, Jiancheng Lyu, and Mooi Choo Chuah. IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2027.</small>
 * **[EMBC 2026]** [MIA FewSL: Few-Shot Segmentation with Foundation Models for Data-Efficient Whole Slide Histopathology Annotation]() <br>
 <small>**Zhen Yao**, Erik Ames Burlingame, Chaitanya Parmar, Brendon Lutnick, Patricia Raciti, Kristopher Standish, Albert Juan Ramon, Brandon Ginley. International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2026.</small>
 * **[ICASSP 2026]** [ChromouVQA: Benchmarking Vision-Language Models under Chromatic Camouflaged Images](https://www.arxiv.org/abs/2512.05137) <br>
