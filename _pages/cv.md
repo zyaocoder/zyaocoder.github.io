@@ -35,11 +35,6 @@ Work experience
   * Mentor: [Brandon Ginley](https://scholar.google.com/citations?user=UDz46zwAAAAJ&hl=en)
   * Propose a semi-supervised learning approach that leverages foundation models to improve annotation efficiency
 
-* 2024/12 - 2025/06: **8th Workshop on Efficient Deep Learning for Computer Vision**, CVPR | Nashville, TN <br>
-  *Technical Program Committee*
-  * Mentor: [Shuai Zhang](https://zsivine.github.io/)
-  * Organize the 2025 IEEE Low Power Computer Vision Challenge (LPCVC) open-vocabulary segmentation track (40+ teams involved); Collect data and evaluate the baseline model
-
 * 2021/02 - Present: **Lehigh University**, WiNS Lab | Bethlehem, PA <br>
   *Research Assistant*
   * Supervisor: [Mooi Choo Chuah](https://www.cse.lehigh.edu/~chuah/)
